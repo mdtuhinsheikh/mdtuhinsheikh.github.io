@@ -8,14 +8,22 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px;
+  font-size: 12px;
 
   @include breakpoint($medium) {
-    font-size: 18px;
+    font-size: 14px;
+  }
+  
+  @include breakpoint($large) {
+    font-size: 16px; // originally 20px
   }
 
-  -webkit-text-size-adjust: 80%;
-  -ms-text-size-adjust: 80%;
+  @include breakpoint($x-large) {
+    font-size: 18px; // originally 22px
+  }
+  
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 /* Remove margin */

@@ -3,8 +3,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /education/
 ---
 
 * B.S. in GitHub, GitHub University, 2012

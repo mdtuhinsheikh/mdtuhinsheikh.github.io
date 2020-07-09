@@ -12,6 +12,6 @@ author_profile: true
   - B.S. project: "A Comparison of Image Histogram Equalization Techniques".
 * M.S. in Applied Statistics, University of Dhaka, 2015.
   - Supervisor: [Dr. Mahbub Latif](https://www.isrt.ac.bd/people/mlatif/)
-  - B.S. project: "Standard Error Estimations under Joint Modelling Setting 
+  - M.S. thesis: "Standard Error Estimations under Joint Modelling Setting 
   with an Application to Diabetes Data".
 

@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Statistics, University of Connecticut (UConn), Storrs, CT, Fall 2017 - Present.
+  - Advisor: [Dr. Ming-Hui Chen](https://stat.uconn.edu/ming-hui-chen/), 
+  Professor, Department of Statistics, UConn.
+* B.S. in Applied Statistics, University of Dhaka, 2013.
+  - Supervisor: [Dr. Tamanna Howlader](https://www.isrt.ac.bd/people/tamanna/)
+  - B.S. project: "A Comparison of Image Histogram Equalization Techniques".
+* M.S. in Applied Statistics, University of Dhaka, 2015.
+  - Supervisor: [Dr. Mahbub Latif](https://www.isrt.ac.bd/people/mlatif/)
+  - M.S. thesis: "Standard Error Estimations under Joint Modelling Setting 
+  with an Application to Diabetes Data".
 
 Work experience
 ======

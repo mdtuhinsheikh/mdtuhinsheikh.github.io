@@ -4,7 +4,7 @@ permalink: /education/
 author_profile: true
 ---
 
-* Ph.D in Statistics, University of Connecticut (UConn), Storrs, CT, Fall 2017 - Present.
+* Ph.D in Statistics, University of Connecticut (UConn), Storrs, CT, Fall 2017 -- Present.
   - Advisor: [Dr. Ming-Hui Chen](https://stat.uconn.edu/ming-hui-chen/), 
   Professor, Department of Statistics, UConn.
 * B.S. in Applied Statistics, University of Dhaka, 2013.

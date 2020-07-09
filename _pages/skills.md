@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Statistical methodology:
-* Proficient in using "proportional hazards model", "generalized linear mixed model", 
+* Proficient in using "proportional hazards model", 
+"generalized linear mixed model", 
 "joint model", "logistic regression", "interval censored data model", 
 "competing risks model", etc.
 * Experience in dealing with "missing data", using "random survival forest", 

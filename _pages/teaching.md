@@ -24,7 +24,7 @@ author_profile: true
 * A guest lecture in "STAT 5645: Analysis of Survival Data" course on 
 "Survival Analysis: into the era of Machine Learning". 
 All the lecture materials are available at the 
-[https://github.com/mdtuhinsheikh/MLSurvMLSurv](https://github.com/mdtuhinsheikh/MLSurvMLSurv).
+[https://github.com/mdtuhinsheikh/MLSurvMLSurv](https://github.com/mdtuhinsheikh/MLSurv).
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial". 
 Lecture materials: [https://github.com/mdtuhinsheikh/RShiny_tutorial](https://github.com/mdtuhinsheikh/RShiny_tutorial).
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on 

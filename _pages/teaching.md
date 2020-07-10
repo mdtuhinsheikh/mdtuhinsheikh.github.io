@@ -20,3 +20,12 @@ author_profile: true
 * AST 402: Statistical Inference II (2017)
 * AST 406: Industrial Statistics and Operations Research (2016).
 
+## Guest Lecturer, UConn
+* A guest lecture in "STAT 5645: Analysis of Survival Data" course on 
+"Survival Analysis: into the era of Machine Learning". 
+All the lecture materials are available at the 
+[https://github.com/mdtuhinsheikh/MLSurvMLSurv](https://github.com/mdtuhinsheikh/MLSurvMLSurv).
+* A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial". 
+Lecture materials: [https://github.com/mdtuhinsheikh/RShiny_tutorial](https://github.com/mdtuhinsheikh/RShiny_tutorial).
+* A guest lecture in "STAT 5615: Categorical Data Analysis" course on 
+"Logistic Regression within Deep Learning Framework using R".

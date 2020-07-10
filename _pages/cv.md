@@ -9,7 +9,9 @@ redirect_from:
 {% include base_path %}
 
 
-# Education
+Education
+======
+<hr style="border:2px solid gray">
 
 * Ph.D in Statistics, University of Connecticut (UConn), Storrs, CT, Fall 2017 - Present.
   - Advisor: [Dr. Ming-Hui Chen](https://stat.uconn.edu/ming-hui-chen/), 

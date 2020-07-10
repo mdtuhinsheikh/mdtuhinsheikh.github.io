@@ -26,14 +26,14 @@ Education
 
 Publications
 ======
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray"> 
 
-**Methodology:**
+## Methodology
 1. **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2020). Joint Modeling of 
 Longitudinal and Survival Data in the Presence of Competing Risks with Applications 
 to Prostate Cancer Data. *Statistical Modelling* (**Accepted**).
 
-**Applications:**
+## Applications
 1. Khan, J.R., Awan, N., **Sheikh, M.T.** (2019). A multilevel and spatial analysis 
 of the infant and young child feeding practices and associated factors among the 
 under-2 aged children in Bangladesh. *Child Care in Practice*. 
@@ -52,7 +52,7 @@ Demographic and Health Surveys, 2007-2014.
 
 Teaching Experience
 ======
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray"> 
 
 ## Department of Statistics, UConn
 **Teaching Assistant:**
@@ -73,7 +73,7 @@ Teaching Experience
 
 Skills
 ======
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray"> 
 
 ## Statistical methodology:
 * Proficient in using "proportional hazards model", "generalized linear mixed model", 

@@ -14,7 +14,9 @@ main:
 
   - title: "Skills"
     url: /skills/    
-    
+  
+  - title: "Gallery"
+    url: /gallery/
 #  - title: "Portfolio"
 #    url: /portfolio/
         

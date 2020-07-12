@@ -14,4 +14,12 @@ author_profile: true
 
 <img src="/images/yang_liu_defense_celeb.jpg" alt="drawing" width="750"/>
 
-**From left: Dr. Ming-Hui Chen's students, photo taken in 2019.**
+**Dr. Ming-Hui Chen's students, photo taken in 2019.**
+
+<img src="/images/energy_stat_meeting.jpg" alt="drawing" width="750"/>
+
+**EnergyStat meeting at the UConn Avery Point campus, photo taken in 2019.**
+
+<img src="/images/uconn_picnic_2018.jpg" alt="drawing" width="750"/>
+
+**From left: my wife (Shurovi), Tuhin (me!), and my advisor (Dr. Ming-Hui Chen) at UConn Stat Picnic 2018.**

@@ -9,7 +9,6 @@ author_profile: true
   - Advisor: Dr. Ming-Hui Chen, Professor, Statistics, UConn.
 * **[Boehringer Ingelheim (BI)](https://www.boehringer-ingelheim.com/)**, Ridgefield, CT
   - Biostatistics and Data Science Intern, Summer 2020.
-  - Manager: Dr. Miaomiao Ge, Senior Associate Director, BI.
 * **[Institute of Statistical Research and Training](https://www.isrt.ac.bd/people/tsheikh/)**, University of Dhaka, Dhaka 1000, Bangladesh
   - Lecturer of Applied Statistics, August 2015 -- present
 * **[James P Grant School of Public Health](http://sph.bracu.ac.bd/)**, Brac University, Dhaka 1212, Bangladesh

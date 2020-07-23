@@ -22,10 +22,10 @@ designing and performing "simulation study", etc.
 * Experience in analysing data using **Stata**, **Minitab**, **SPSS**, and have basic knowledge of **C** programming. 
 
 ## Text formatting 
-* $\LaTeX$, Microsoft Word 2019, Microsoft Power point 2019.
+* $\LaTeX$, Microsoft Word 2019, Microsoft Power point 2019, Markdown.
 
 ## Coding editors
-* Notepad++, Vim, Visual studio code, etc.
+* RStudio, Notepad++, Vim, Visual studio code, etc.
 
 ## Operating system
 * Windows and Linux.

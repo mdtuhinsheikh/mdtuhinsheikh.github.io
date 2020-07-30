@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home|Tuhin Sheikh"
+title                    : "Home | Tuhin Sheikh"
 title_separator          : "-"
 name                     : &name "Md. Tuhin Sheikh"
 description              : &description "Ph.D. Student, Statistics, UConn"

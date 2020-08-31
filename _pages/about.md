@@ -9,17 +9,8 @@ redirect_from:
 ---
 Hello! Welcome to my webpage. I am a fourth year Ph.D. student in [Statistics](https://stat.uconn.edu/) [Fall 2017 - Present] at the University of Connecticut (UConn), Storrs, CT, USA. I am working under the advisory of [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/), Professor of Statistics, UConn. I have completed my Bachelor and Master Degrees in Applied Statistics at the University of Dhaka in 2013 and 2014, respectively.
 
-My research works broadly focus on competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling survival data. 
+My research works broadly focus on competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling to survival data. 
 
-//My Research interests include:
-//* Competing risks survival data analysis
-//* Longitudinal data analysis
-//* Joint modelling of longitudinal and survival data
-//* Bayesian computation
-//* Cure rate model
-//* Model assessment 
-//* Deep neural network modelling
-//* Interim analysis in clinical trials
 
 ## Recent Developments
 * I am working with a large cancer clinical trials data that has complicated association between longitudinal biomarker and time-to-event. Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and survival data in presence of competing risks. 

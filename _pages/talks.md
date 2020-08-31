@@ -1,9 +1,10 @@
 ---
-title: "Talks/Presentation"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
 
+## Talks/Presentation
 * "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", Symposium on Data Science and Statistics", May 16--19, 2018, in Reston, Virginia. 
 
 * "Standard Error Estimation of Joint Model for Longitudinal and Survival Outcomes", International Conference on Statistics, 27--29 December, 2014, organized by DUSDAA.

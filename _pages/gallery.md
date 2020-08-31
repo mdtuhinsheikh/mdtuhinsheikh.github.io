@@ -18,7 +18,7 @@ author_profile: true
 
 <img src="/images/energy_stat_meeting.jpg" alt="drawing" width="750"/>
 
-**EnergyStat meeting at the UConn Avery Point campus, photo taken by Dr. Ming-Hui Chen in 2019.**
+**EnergyStat meeting at the UConn Avery Point campus in 2019.**
 
 <img src="/images/uconn_picnic_2018.jpg" alt="drawing" width="750"/>
 

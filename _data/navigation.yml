@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/ 
   
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Skills"
     url: /skills/    
@@ -21,8 +21,9 @@ main:
   - title: "Awards"
     url: /awards/ 
     
-  - title: "Gallery"
-    url: /gallery/
+#  - title: "Gallery"
+#    url: /gallery/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         

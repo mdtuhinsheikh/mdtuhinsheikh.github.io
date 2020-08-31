@@ -14,17 +14,17 @@ author_profile: true
 **Instructor:** 
 * STAT 3375: Introduction to Mathematical Statistics I (Fall 2019).
 
-## Guest Lecturer, UConn
+## Guest Lecture, UConn
 * A guest lecture in "STAT 5645: Analysis of Survival Data" course on 
-"Survival Analysis: into the era of Machine Learning". 
+"Survival Analysis: into the era of Machine Learning" in Fall 2019. 
 All the lecture materials are available at the 
 [https://github.com/mdtuhinsheikh/MLSurv](https://github.com/mdtuhinsheikh/MLSurv).
-* A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial". 
+* A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial" in Spring 2020. 
 Lecture materials: [https://github.com/mdtuhinsheikh/RShiny_tutorial](https://github.com/mdtuhinsheikh/RShiny_tutorial).
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on 
-"Logistic Regression within Deep Learning Framework using R".
+"Logistic Regression within Deep Learning Framework using R" in Spring 2020.
 
-## ISRT, University of Dhaka
+## Applied Statistics, University of Dhaka
 **Instructor:**
 * AST 103: Programming with C (2016 -- 2017).
 * AST 402: Statistical Inference II (2017)

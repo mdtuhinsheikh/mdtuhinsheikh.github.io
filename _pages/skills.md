@@ -21,12 +21,26 @@ designing and performing "simulation study", etc.
 * Fluent in writing codes and using **Matlab** toolbox, e.g. "Image Processing".
 * Experience in analysing data using **Stata**, **Minitab**, **SPSS**, and have basic knowledge of **C** programming. 
 
+## Certification
+**Online courses:**
+* "Introduction to Data Science using R" (Udemy, Certificate [link](https://www.udemy.com/certificate/UC-21QY2ZUV/)) 
+* "Neural Networks and Deep Learning" (Coursera, Certificate [link](https://www.coursera.org/account/accomplishments/certificate/8MC65T7SH99P)).
+
+**Summer Program:**
+* Successful completion of the "UConn Statistics Biopharmaceutical Summer Academy", organized by *Boerhinger Ingelheim Pharmaceuticals, Inc.* and *Department of Statistics, UConn*, August 06--August 24, 2018.
+    
+**Software/Language:**
+* "SAS$^{\tiny{\textregistered}}$ Visual Data Mining and Machine Learning on SAS$^{\tiny{\textregistered}}$ Viya$^{\tiny{\textregistered}}$: Interactive Machine Learning", organized by \textit{Department of Statistics, UConn and SAS$^{\tiny{\textregistered}}$} May 14, 2019.
+
+<!--
 ## Text formatting 
 * $\LaTeX$, Microsoft Word 2019, Microsoft Power point 2019, Markdown.
-
+-->
+<!--
 ## Coding editors
 * RStudio, Notepad++, Vim, Visual studio code, etc.
-
+-->
+<!--
 ## Operating system
 * Windows and Linux.
-
+-->

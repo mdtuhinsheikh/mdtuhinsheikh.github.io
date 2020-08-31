@@ -30,7 +30,7 @@ designing and performing "simulation study", etc.
 * Successful completion of the "UConn Statistics Biopharmaceutical Summer Academy", organized by *Boerhinger Ingelheim Pharmaceuticals, Inc.* and *Department of Statistics, UConn*, August 06--August 24, 2018.
     
 **Software/Language:**
-* "SAS$^{\tiny{\textregistered}}$ Visual Data Mining and Machine Learning on SAS$^{\tiny{\textregistered}}$ Viya$^{\tiny{\textregistered}}$: Interactive Machine Learning", organized by \textit{Department of Statistics, UConn and SAS$^{\tiny{\textregistered}}$} May 14, 2019.
+* "SAS Visual Data Mining and Machine Learning on SAS Viya: Interactive Machine Learning", organized by *Department of Statistics, UConn and SAS*, May 14, 2019.
 
 <!--
 ## Text formatting 

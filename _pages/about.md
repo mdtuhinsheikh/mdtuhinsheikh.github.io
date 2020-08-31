@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! Welcome to my webpage. I am a third year Ph.D. student in Statistics [Fall 2017 - Present] at the University of Connecticut (UConn), Storrs, CT, USA. I am working under the advisory of [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/), Professor of Statistics, UConn.
+Hello! Welcome to my webpage. I am a fourth year Ph.D. student in [Statistics](https://stat.uconn.edu/) [Fall 2017 - Present] at the University of Connecticut (UConn), Storrs, CT, USA. I am working under the advisory of [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/), Professor of Statistics, UConn. I have completed my Bachelor and Master Degrees in Applied Statistics at the University of Dhaka in 2013 and 2014, respectively.
 
 My Research interests include:
 * Competing risks survival data analysis

@@ -4,12 +4,12 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Statistics, UConn
+## Statistics, University of Connecticut
 * **Trainers' Award** (with a scholarship), UConn Sports Analytics Symposium 2019.
 * [**Outstanding Teaching Award**](https://stat.uconn.edu/student-awards/) (with a scholarship), Department of Statistics, UConn, 2019.
 * **UConn Provost's appreciation letter for excellence in teaching** in Spring 2019, Fall 2019, and Spring 2018. 
 
-## ISRT, DU
+## Applied Statistics, University of Dhaka
 * University Grants Commission **Research Grant** for "Standard Error Estimation under Joint Modelling Setting", 2016-17.
 * **First Prize** in **Young Statistician Award**, [Second International Conference on Statistics 2015](https://sites.google.com/site/dusdaa10/conference2015/sponsors/youngaward) at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".
 * **Dean's Award-2015**, Faculty of Science, DU, awarded for outstanding performance in B.S. (Honors) in Applied Statistics, 2013.

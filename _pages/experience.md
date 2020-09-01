@@ -6,7 +6,7 @@ author_profile: true
 
 * **[Department of Statistics](https://stat.uconn.edu/)**, Uiversity of Connecticut (UConn), Storrs, CT
   - Graduate Teaching Assistant, August 2017 - Present
-  - Advisor: Dr. Ming-Hui Chen, Professor, Statistics, UConn.
+  - Advisor: [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/), Professor, Statistics, UConn.
 * **[Boehringer Ingelheim (BI)](https://www.boehringer-ingelheim.com/)**, Ridgefield, CT
   - Biostatistics and Data Science Intern, Summer 2020.
   - <ins>Project title:</ins> "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure"

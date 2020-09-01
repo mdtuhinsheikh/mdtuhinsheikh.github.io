@@ -22,7 +22,8 @@ designing and performing "simulation study", etc.
 * Experience in analysing data using **Stata**, **Minitab**, **SPSS**, and have basic knowledge of **C** programming. 
 
 ## Certification
-**Online courses:**
+**Short courses/Online courses:**
+* Completed the short course "[Survival Analysis Methods for Non-Proportional Hazards](https://events.stat.uconn.edu/stat4onc/#short-courses)" at the [3rd Stat4Onc Annual Symposium](https://events.stat.uconn.edu/stat4onc/).
 * "Introduction to Data Science using R" (Udemy, Certificate [link](https://www.udemy.com/certificate/UC-21QY2ZUV/)) 
 * "Neural Networks and Deep Learning" (Coursera, Certificate [link](https://www.coursera.org/account/accomplishments/certificate/8MC65T7SH99P)).
 

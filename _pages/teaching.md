@@ -27,6 +27,8 @@ All the lecture materials are available at the
 ## Applied Statistics, University of Dhaka
 **Instructor:**
 * AST 103: Programming with C (2016 -- 2017).
+* AST 232: Statistical Computing V [design and analysis of experiment] (2016, 2017).
+* AST 332: Statistical Computing VIII [population studies and sampling technique] (2016).
 * AST 402: Statistical Inference II (2017)
 * AST 406: Industrial Statistics and Operations Research (2016).
 

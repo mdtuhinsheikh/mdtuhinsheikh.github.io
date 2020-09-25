@@ -13,8 +13,6 @@ author_profile: true
 * University Grants Commission **Research Grant** for "Standard Error Estimation under Joint Modelling Setting", 2016-17.
 * **First Prize** in **Young Statistician Award**, [Second International Conference on Statistics 2015](https://sites.google.com/site/dusdaa10/conference2015/sponsors/youngaward) at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".
 * **Dean's Award-2015**, Faculty of Science, DU, awarded for outstanding performance in B.S. (Honors) in Applied Statistics, 2013.
-
-## Others
 * **DU Talent Pool Scholarship**, awarded for the result of B.S. (Honors) in Applied Statistics, 2013.
 * **ISRT merit scholarship** for B.S. (Honors) results, 2011, 2012, 2013, and 2014.
 * Eastern Bank Limited (EBL) and DU Alumni Association (DUAA), **EBL-DUAA scholarship** for B.S (Honors) 2nd (2012) and 3rd (2013) year results.

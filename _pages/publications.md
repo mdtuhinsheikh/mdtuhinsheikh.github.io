@@ -10,7 +10,7 @@ A full list of publications can also be found in my
 ## Methodology
 1. **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2020). Joint Modeling of 
 Longitudinal and Survival Data in the Presence of Competing Risks with Applications 
-to Prostate Cancer Data. *Statistical Modelling*, doi: [https://journals.sagepub.com/doi/10.1177/1471082X20944620](https://journals.sagepub.com/doi/10.1177/1471082X20944620).
+to Prostate Cancer Data. *Statistical Modelling*, doi: [10.1177/1471082X20944620](https://journals.sagepub.com/doi/10.1177/1471082X20944620).
 
 ## Applications
 1. Khan, J.R., Awan, N., **Sheikh, M.T.** (2019). A multilevel and spatial analysis 

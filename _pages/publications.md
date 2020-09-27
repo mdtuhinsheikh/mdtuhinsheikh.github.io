@@ -22,8 +22,8 @@ its determinants in Bangladesh: current status data modeling. 
 *Early Child Development and Care*. doi: [https://doi.org/10.1080/03004430.2019.1595609](https://doi.org/10.1080/03004430.2019.1595609).
 1. Khan, J.R., Biswas, R.K., **Sheikh, M.T.**, and Huq, M. (2019). Factors associated with 
 the availability of iodized salt at household level: A case study in Bangladesh. 
-*Public Health Nutrition*. doi: [10.1017/S1368980018003907](10.1017/S1368980018003907).
+*Public Health Nutrition*. doi: [10.1017/S1368980018003907](https://www.cambridge.org/core/journals/public-health-nutrition/article/factors-associated-with-the-availability-of-iodized-salt-at-household-level-a-case-study-in-bangladesh/17580692A2007D6D5FE07C2C5590218D).
 1. **Sheikh, M.T.**, Uddin, M.N., and Khan, J.R. (2017). A comprehensive analysis of trends 
 and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh 
 Demographic and Health Surveys, 2007-2014. 
-*Archives of Public Health*, 75 (1): 59. doi: [10.1186/s13690-017-0228-2](10.1186/s13690-017-0228-2).
+*Archives of Public Health*, 75 (1): 59. doi: [10.1186/s13690-017-0228-2](https://link.springer.com/article/10.1186/s13690-017-0228-2).

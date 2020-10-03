@@ -14,7 +14,7 @@ My research works broadly focus on competing risks survival data analysis, longi
 
 ## Research Interests
 - Competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, and cure rate model.
-- Bayesian statistics, Monte Carlo methodlogy, and model assessment.
+- Bayesian statistics, Monte Carlo methodology, model assessment, and co-data analysis.
 - Deep neural network modelling, microbiome data analysis, and interim analysis in clinical trials.
 - Public health research problems (e.g. Prostate cancer, diabetes, HIV, etc.).
 

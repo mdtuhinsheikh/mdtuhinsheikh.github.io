@@ -21,7 +21,7 @@ My research works broadly focus on competing risks survival data analysis, longi
 ## Recent Developments/News
 * I will conduct an R workshop at the [UConn Sports Analytics Symposium 2020](https://statds.org/events/ucsas2020/workshops.html) on Oct 10, 2020.
 * I am working with a large cancer clinical trials data that has a complicated association between longitudinal biomarker and time-to-event outcomes. Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and competing risks survival data. 
-* I am working on the "EnergyStat" project, which is a joint collaboration between Utility Operations and Energy Management and the Department of Statistics. We have been developing an RShiny dashboard with the real time energy and utility data at UConn. The project website [link](http://energystats.fo.uconn.edu:9999/). [Note: the link works under the UConn VPN at this moment.]
+* I am working on the "EnergyStats" project, which is a joint collaboration between Utility Operations and Energy Management and the Department of Statistics. We have been developing an RShiny dashboard with the real time energy and utility data at UConn. The project website [link](http://energystats.fo.uconn.edu:9999/). [Note: the link works under the UConn VPN at this moment.]
 * In Summer 2020, I worked as a Biostatistics and Data Science intern at Boehringer-Ingelheim. I worked with my manager, Dr. Miaomiao Ge and developed an optimized decision making algorithm for early phase clinical trials with binary endpoint using Bayesian predictive probability of futility.
 * In 2019, I received "Outstanding Teaching Award (with a scholarship)" at the Department of Statistics, UConn.
 

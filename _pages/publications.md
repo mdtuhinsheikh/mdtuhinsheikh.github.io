@@ -19,7 +19,7 @@ under-2 aged children in Bangladesh. *Child Care in Practice*.
 doi: [https://doi.org/10.1080/13575279.2019.1680528](https://doi.org/10.1080/13575279.2019.1680528).
 1. Khan, J.R., **Sheikh, M.T.**, and Muurlink, O. (2019). Breastfeeding termination and 
 its determinants in Bangladesh: current status data modeling. 
-*Early Child Development and Care*. doi: [https://doi.org/10.1080/03004430.2019.1595609](https://doi.org/10.1080/03004430.2019.1595609).
+*Early Child Development and Care*, 190 (16): 1-16. doi: [https://doi.org/10.1080/03004430.2019.1595609](https://doi.org/10.1080/03004430.2019.1595609).
 1. Khan, J.R., Biswas, R.K., **Sheikh, M.T.**, and Huq, M. (2019). Factors associated with 
 the availability of iodized salt at household level: A case study in Bangladesh. 
 *Public Health Nutrition*. doi: [10.1017/S1368980018003907](https://www.cambridge.org/core/journals/public-health-nutrition/article/factors-associated-with-the-availability-of-iodized-salt-at-household-level-a-case-study-in-bangladesh/17580692A2007D6D5FE07C2C5590218D).

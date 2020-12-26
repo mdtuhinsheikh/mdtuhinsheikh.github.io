@@ -8,6 +8,7 @@ A full list of publications can also be found in my
 [Google Scholar](https://scholar.google.com/citations?user=PAaEqSkAAAAJ&hl=en) profile.
 
 ## Methodology
+1. **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2020). Bayesian Innovation for Assessing the Importance of Longitudinal Biomarkers in Fitting Competing Risks  Survival Data with Partially Masked Causes (**Submitted**).
 1. **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2020). Joint Modeling of 
 Longitudinal and Survival Data in the Presence of Competing Risks with Applications 
 to Prostate Cancer Data. *Statistical Modelling*, doi: [10.1177/1471082X20944620](https://journals.sagepub.com/doi/10.1177/1471082X20944620).

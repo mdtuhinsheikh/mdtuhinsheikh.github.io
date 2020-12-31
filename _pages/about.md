@@ -24,6 +24,6 @@ My research works broadly focus on competing risks survival data analysis, longi
 
 ## Recent Developments/News
 * I have conducted an R workshop ([codes](https://github.com/mdtuhinsheikh/introR_ucsas2020), [slides](https://mdtuhinsheikh.github.io/introR_ucsas2020/#1), [video](https://uconn-cmr.webex.com/recordingservice/sites/uconn-cmr/recording/3e88f57314344e8db379fb744ab42cb1/playback)) at the [UConn Sports Analytics Symposium 2020](https://statds.org/events/ucsas2020/workshops.html) on Oct 10, 2020.
-* I am working with a large cancer clinical trials data that has a complicated association between longitudinal biomarker and time-to-event outcomes. Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and competing risks survival data. 
-* I am working on the "EnergyStats" project, which is a joint collaboration between Utility Operations and Energy Management and the Department of Statistics. We have been developing an RShiny dashboard with the real time energy and utility data at UConn. The project website [link](http://energystats.fo.uconn.edu:9999/). [Note: the link works under the UConn VPN at this moment.]
+* Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and competing risks survival data. 
+* I am working on the "EnergyStats" project, where we have been developing an [RShiny dashboard](http://energystats.fo.uconn.edu:9999/) with the real time energy and utility data at UConn. [Note: the link works under the UConn VPN at this moment.]
 

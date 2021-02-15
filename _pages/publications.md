@@ -8,8 +8,8 @@ A full list of publications can also be found in my
 [Google Scholar](https://scholar.google.com/citations?user=PAaEqSkAAAAJ&hl=en) profile.
 
 ## Methodology
-1. **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2021). A New Bayesian Joint Model for Longitudinal Biomarker and Cure Competing Risks Survival Data (**under preparation**).
-1. **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2021). New Bayesian C-indices for Assessing the Importance of Longitudinal Biomarkers in Fitting Competing Risks  Survival Data with Partially Masked Causes (**under preparation**).
+1. **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2021). A New Bayesian Joint Model for Longitudinal Biomarker and Cure Competing Risks Survival Data (**under preparation**).
+1. **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2021). New Bayesian C-indices for Assessing the Importance of Longitudinal Biomarkers in Fitting Competing Risks  Survival Data with Partially Masked Causes (**under preparation**).
 1. **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2021). A Comparability Analysis of Multiple Longitudinal and Survival Data (**under preparation**).
 1. **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2021). Joint Modeling of 
 Longitudinal and Survival Data in the Presence of Competing Risks with Applications 

@@ -7,6 +7,8 @@ author_profile: true
 ## Talks/Presentation
 * "Joint Modelling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data", [Session 96c, ENAR Virtual Spring Meeting 2021](https://www.enarspring.org/agenda), March 14--17, 2021.
 
+* "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure", Biostatistics and Data Science Intern Presentation, [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/), August 10, 2020.
+
 * "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", [Symposium on Data Science & Statistics](https://ww2.amstat.org/meetings/SDSS/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304595)", May 16--19, 2018, in Reston, Virginia. 
 
 * "Standard Error Estimation of Joint Model for Longitudinal and Survival Outcomes", [International Conference on Statistics](https://sites.google.com/site/dusdaa10/conference2015), 27--29 December, 2014, organized by DUSDAA.

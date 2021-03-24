@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ## Talks/Presentation
-* "Joint Modelling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data", [ENAR 2021](https://www.enarspring.org/presenters), March 14--17, 2021.
+* "Joint Modelling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data", [Session 96c, ENAR Virtual Spring Meeting 2021](https://www.enarspring.org/agenda), March 14--17, 2021.
 
-* "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", [Symposium on Data Science and Statistics](https://ww2.amstat.org/meetings/sdss/2018/)", May 16--19, 2018, in Reston, Virginia. 
+* "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", [Symposium on Data Science & Statistics](https://ww2.amstat.org/meetings/SDSS/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304595)", May 16--19, 2018, in Reston, Virginia. 
 
-* "Standard Error Estimation of Joint Model for Longitudinal and Survival Outcomes", [International Conference on Statistics](https://sites.google.com/site/dusdaa10/conference2015/sponsors/youngaward), 27--29 December, 2014, organized by DUSDAA.
+* "Standard Error Estimation of Joint Model for Longitudinal and Survival Outcomes", [International Conference on Statistics](https://sites.google.com/site/dusdaa10/conference2015), 27--29 December, 2014, organized by DUSDAA.
 
-* "Joint Modeling of Longitudinal and Survival Outcome with Applications to Diabetes Data", [International Conference on Applied Statistics](http://sites.isrt.ac.bd/icas2014/), 27--29 December, 2014, organized by ISRT, DU.
+* "Joint Modeling of Longitudinal and Survival Outcome with Applications to Diabetes Data", [Contributed Session 5 (P97), International Conference on Applied Statistics](https://docs.google.com/a/isrt.ac.bd/viewer?a=v&pid=sites&srcid=aXNydC5hYy5iZHxpY2FzMjAxNHxneDozYmZjNmFlMjBmMjljYzIx), 27--29 December, 2014, organized by ISRT, DU.
 
 ## Workshop 
 * Will conduct a workshop on "An Introduction to R Shiny App", organized by ISRT, University of Dhaka, on April 9, 2021.

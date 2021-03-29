@@ -6,7 +6,7 @@ author_profile: true
 
 ## Energy-Stats Project 
 ### UConn, Storrs, CT, Jan 2020 - Present
-- This project is a joint collaboration between the Utility Operations \& Energy Management and the Department of Statistics at UConn. I have been working as an RA under this project and contributing to the development of an [R Shiny Dashboard Website](\href{https://energystats.fo.uconn.edu/}{https://energystats.fo.uconn.edu/}) under the advisory of Prof. Ming-Hui Chen. 
+- This project is a joint collaboration between the Utility Operations & Energy Management and the Department of Statistics at UConn. I have been working as an RA under this project and contributing to the development of an [R Shiny Dashboard Website](\href{https://energystats.fo.uconn.edu/}{https://energystats.fo.uconn.edu/}) (accessible under UConn domain only at this moment) under the advisory of Prof. Ming-Hui Chen. 
 
 ## NIH R01 Grant
 ### UConn, Storrs, CT, May 2019 - Present

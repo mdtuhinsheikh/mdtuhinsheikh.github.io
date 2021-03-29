@@ -8,7 +8,7 @@ author_profile: true
 ### UConn, Storrs, CT, Jan 2020 - Present
 - This project is a joint collaboration between the Utility Operations \& Energy Management and the Department of Statistics at UConn. I have been working as an RA under this project and contributing to the development of an [R Shiny Dashboard Website](\href{https://energystats.fo.uconn.edu/}{https://energystats.fo.uconn.edu/}) under the advisory of Prof. Ming-Hui Chen. 
 
-## NIH R01 Grant (\#GM 70335) 
+## NIH R01 Grant
 ### UConn, Storrs, CT, May 2019 - Present
 - Joint modeling of longitudinal and competing risks survival data in the presence of missing causes.
 - Bayesian model assessment to quantify the contribution of longitudinal data on fit of competing risks survival data.

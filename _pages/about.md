@@ -23,7 +23,8 @@ My research works broadly focus on competing risks survival data analysis, longi
 - Public health research problems (e.g. Prostate cancer, diabetes, HIV, etc.).
 
 ## Recent Developments/News
-* Will conduct a workshop on "An Introduction to R Shiny App", organized by ISRT, University of Dhaka, on April 9, 2021.
+<!-- * Will conduct a workshop on "An Introduction to R Shiny App", organized by ISRT, University of Dhaka, on April 9, 2021. 
+-->
 * I have conducted an R workshop ([codes](https://github.com/mdtuhinsheikh/introR_ucsas2020), [slides](https://mdtuhinsheikh.github.io/introR_ucsas2020/#1), [video](https://uconn-cmr.webex.com/recordingservice/sites/uconn-cmr/recording/3e88f57314344e8db379fb744ab42cb1/playback)) at the [UConn Sports Analytics Symposium 2020](https://statds.org/events/ucsas2020/workshops.html) on Oct 10, 2020.
 * Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and competing risks survival data. 
 * I am working on the "EnergyStats" project, where we have been developing an [RShiny dashboard](http://energystats.fo.uconn.edu:9999/) with the real time energy and utility data at UConn. [Note: the link works under the UConn VPN at this moment.]

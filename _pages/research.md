@@ -11,7 +11,6 @@ author_profile: true
 ## NIH R01 Grant
 ### UConn, Storrs, CT, May 2019 - Present
 - Joint modeling of longitudinal and competing risks survival data in the presence of missing causes.
-- Bayesian model assessment to quantify the contribution of longitudinal data on fit of the competing risks survival data.
 - Bayesian C-index under a joint longitudinal and competing risks survival data.
 - Leveraging external co-longitudinal and co-survival data.
 

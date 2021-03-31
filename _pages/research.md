@@ -16,5 +16,5 @@ author_profile: true
 
 ## Internship Project 
 ### Boehringer Ingelheim (BI), Ridgefield, CT, May - Aug, 2020
-- As a Biostatistics and Data Science Intern, I worked on a project to develop a new decision making criterion using the Bayesian predictive probability of failure and developed self-written code. I worked under the supervision of Dr. Miaomiao Ge.
-- Project title: "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure".
+- As a Biostatistics and Data Science Intern, I worked on a project to develop a new decision making criterion using the Bayesian predictive probability of failure and developed self-written code. 
+- Project title: "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure", mentor: Dr. Miaomiao Ge.

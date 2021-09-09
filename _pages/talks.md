@@ -18,7 +18,9 @@ author_profile: true
 * "Joint Modeling of Longitudinal and Survival Outcome with Applications to Diabetes Data", [Contributed Session 5 (P97), International Conference on Applied Statistics](https://docs.google.com/a/isrt.ac.bd/viewer?a=v&pid=sites&srcid=aXNydC5hYy5iZHxpY2FzMjAxNHxneDozYmZjNmFlMjBmMjljYzIx), 27--29 December, 2014, organized by ISRT, DU.
 
 ## Workshop 
-* Will conduct a workshop on "An Introduction to R Shiny App", organized by ISRT, University of Dhaka, on April 9, 2021.
+* I will conduct a workshop on "Introduction R" at the the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html) on Oct 9, 2021.
+
+* Conducted a workshop on "An Introduction to R Shiny App", organized by ISRT, University of Dhaka, on April 9, 2021.
 
 * Conducted a workshop on "Introduction to R" as part of the UConn Data Science Club on February 24, 2021.
 

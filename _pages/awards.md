@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Statistics, University of Connecticut
+* **[ISBA 2022 Travel Award](https://isbawebmaster.github.io/ISBA2022/)**, awarded by the International Society for Bayesian Analsysis.
 * **Trainers' Award** (with a scholarship), [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/).
 * [**Outstanding Teaching Award**](https://stat.uconn.edu/student-awards/) (with a scholarship), Department of Statistics, UConn, 2019.
 * **UConn Provost's appreciation letter for excellence in teaching** in Spring 2019, Fall 2019, and Spring 2018. 

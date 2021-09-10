@@ -12,6 +12,7 @@ author_profile: true
 * STAT 1100: Elementary Concepts of Statistics (Fall 2017 -- 2018, Spring 2021).
 
 **Instructor:** 
+* STAT 3345: Probability Models for Engineers (Fall 2021).
 * STAT 3375: Introduction to Mathematical Statistics I (Fall 2019).
 
 ## Guest Lecture, UConn

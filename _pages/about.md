@@ -13,8 +13,8 @@ My research works broadly focus on competing risks survival data analysis, longi
 -->
 ## Education
 - Ph.D in Statistics (2017 - Present), University of Connecticut, Advisor: [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/).
-- M.S. in Applied Statistics, 2014, University of Dhaka, Supervisor: [Dr. Mahbub Latif](https://www.isrt.ac.bd/people/mlatif/).
-- B.S. in Applied Statistics, 2013, University of Dhaka, Supervisor: [Dr. Tamanna Howlader](https://www.isrt.ac.bd/people/tamanna/).
+- M.S. in Applied Statistics, 2014, University of Dhaka, Supervisor: Dr. Mahbub Latif.
+- B.S. in Applied Statistics, 2013, University of Dhaka, Supervisor: Dr. Tamanna Howlader.
 
 ## Research Interests
 - Competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, and cure rate model.

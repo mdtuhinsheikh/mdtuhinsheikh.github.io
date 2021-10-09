@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## Talks/Presentation
+* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [New England Statistics Symposium](https://symposium.nestat.org/), Sep 30 -- Oct 2, 2021.
+
+* "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", [Session C14, ISBA 2021 Virtual Meeting](https://events.stat.uconn.edu/ISBA2021/programs.html), June 23 -- July 2, 2021.
+
 * "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", Pharma-Stat Virtual Meeting, March 27, 2021, organized by the Department of Statistics, UConn.
 
 * "Joint Modelling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data", [Session 96c, ENAR Virtual Spring Meeting 2021](https://www.enarspring.org/agenda), March 14--17, 2021.

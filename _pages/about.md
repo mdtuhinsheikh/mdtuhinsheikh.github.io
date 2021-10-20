@@ -12,7 +12,7 @@ I am a Ph.D. student in [Statistics](https://stat.uconn.edu/) [Fall 2017 - Prese
 My research works broadly focus on competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling to survival data.
 -->
 ## Education
-- Ph.D in Statistics (2017 - Present), University of Connecticut, Advisor: [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/).
+- Ph.D in Statistics, 2017 - 2022 (expected), University of Connecticut, Advisor: [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/).
 - M.S. in Applied Statistics, 2014, University of Dhaka.
 - B.S. in Applied Statistics, 2013, University of Dhaka.
 

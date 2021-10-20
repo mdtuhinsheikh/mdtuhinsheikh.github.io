@@ -13,7 +13,7 @@ A full list of publications can also be found in my
 in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes (**submitted**).
 -->
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2021). A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework (**accepted**).
-- **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2020). Joint Modeling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data. *Statistical Modelling*, 21(1–2): 72–94, doi: [10.1177/1471082X20944620](https://journals.sagepub.com/doi/10.1177/1471082X20944620).
+- **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2021). Joint Modeling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data. *Statistical Modelling*, 21(1–2): 72–94, doi: [10.1177/1471082X20944620](https://journals.sagepub.com/doi/10.1177/1471082X20944620).
 
 ## Applications
 - Khan, J.R., Awan, N., **Sheikh, M.T.** (2019). A multilevel and spatial analysis 

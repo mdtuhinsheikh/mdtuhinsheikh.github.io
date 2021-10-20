@@ -23,9 +23,9 @@ My research works broadly focus on competing risks survival data analysis, longi
 - Public health research problems (e.g. Prostate cancer, diabetes, HIV, etc.).
 
 ## Recent Developments/News
-* Recieved the prestigious "[IBM Student Research Award](https://nestat.org/ibmawards/)" at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
+* Recieved the prestigious "[IBM Student Research Award](https://nestat.org/ibmawards/ibm2021/)" at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
 * Recieved the prestigious "[ISBA 2022 Travel Award](https://stat.uconn.edu/2021/09/07/awards-2/)", awarded by the International Society for Bayesian Analysis. 
-* I will conduct a workshop on "Introduction to R" at the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html) on Oct 9, 2021.
+* Conducted a workshop on "Introduction to R" at the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html) on Oct 9, 2021.
 * Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and competing risks survival data. 
 * I am working on the "EnergyStats" project, where we have been developing an [RShiny dashboard](http://energystats.fo.uconn.edu:9999/) with the real time energy and utility data at UConn. [Note: the link works under the UConn VPN at this moment.]
 

@@ -19,7 +19,7 @@ designing and performing "simulation study", etc.
 * Skillful in **FORTRAN** (fluent in writing codes) using IMSL library.
 * Fluent in writing codes and data analysis using **SAS** macro, e.g. "JMFit".
 * Fluent in writing codes and using **Matlab** toolbox, e.g. "Image Processing".
-* Experience in analysing data using **Stata**, **Minitab**, **SPSS**, and have basic knowledge of **C** programming. 
+* Experience in analysing data using **Stata**, **Minitab**, **SPSS**, and have basic knowledge of **C/C++** programming. 
 
 ## Certification
 **Short courses/Online courses:**

@@ -9,7 +9,7 @@ author_profile: true
 
 * "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", [Speed Poster Presentation 1, EAC-ISBA 2021 Meeting](https://events.stat.uconn.edu/EACISBA2021/), November 16 - 18, 2021.
 
-* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [New England Statistics Symposium](https://symposium.nestat.org/), Sep 30 -- Oct 2, 2021.
+* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [Munich Re / HSB Student Poster Award: Speed Poster Presentation 1, NESS 2021](https://symposium.nestat.org/sessions-schedule.html), Sep 30 -- Oct 2, 2021.
 
 * "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", [Session C14, ISBA 2021 Virtual Meeting](https://events.stat.uconn.edu/ISBA2021/programs.html), June 23 -- July 2, 2021.
 

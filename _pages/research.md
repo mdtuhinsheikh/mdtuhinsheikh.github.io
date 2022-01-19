@@ -11,20 +11,28 @@ author_profile: true
 ## NIH R01 Grant
 ### UConn, Storrs, CT, Jan 2019 - Present
 - Joint modeling of longitudinal and competing risks survival data in the presence of missing causes.
-- Bayesian C-index under a joint longitudinal and competing risks survival data.
+- Bayesian model assessment to quantify the contribution of longitudinal data to the fit of competing risks survival data.
 - Leveraging external co-longitudinal and co-survival data.
+- Joint Modeling of Longitudinal and Competing Risk Survival Data in the Presence of Cure Fractions within Machine Learning Framework.
 
 ## SON-STAT Project 
 ### UConn, Storrs, CT, May 2019 - Aug 2019, Jan 2022 - Present
 - This project is a joint collaboration between between School of Nursing (SON) and Department of Statistics (STAT) at UConn. I have been working as an Research Assistant on this project under the mentors: Professor Ming-Hui Chen and Professor Xiaomei Cong. 
-- I worked on the gut microbiome data from premature babies and explored their genetic relationship with the demographic and clinical variables.
+- I am working on the gut microbiome data from premature babies to explore their genetic relationship with the demographic and clinical variables.
 - I am working on Irritable Bowel Syndrome (IBS) data to investigate the change in microbiome characteristics (e.g. alpha-diversity, beta-diversity) for IBS and healthy control groups. 
 
 ## K99/R00 Grant
-### UConn, Storrs, CT, May 2019 - Aug 2019, Jan 2022 - Present
-- I am working on critically ill children data who survived sever sepsis with mentor, Dr. Mallory Perry. 
+### UConn, Storrs, CT, Jan 2022 - Present
+- As an RA, I am working with Dr. Mallory Perry, University of Pennsylvenia, on her K99/R00 project. Our focus is to determiine the risk of physical dysfunction in 
+	critically ill children who survive severe sepsis.
 
 ## Internship Project 
 ### Boehringer Ingelheim (BI), Ridgefield, CT, May - Aug, 2020
-- As a Biostatistics and Data Science Intern, I worked on a project to develop a new decision making criterion using the Bayesian predictive probability of failure and developed self-written code. 
+- I worked on a project to develop a new decision making criterion using the Bayesian predictive probability of failure and developed self-written code. 
 - Project title: "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure", mentor: Dr. Miaomiao Ge.
+
+## NIH R01 Grant Proposal Assisted
+### *SON-STAT, UConn, Storrs, CT*, Jan - May, 2020
+- Assisted on an R01 grant proposal by working on the sample size calculation and data visualization for a gut microbiome data under the mentors: Prof. Ming-Hui Chen and Prof. Wanli Xu.
+### *UNCH-UConn, Storrs, CT*, Jan - May, Sep - Oct, 2020
+- I assisted on preparing an R01 grant proposal by contributing on formulating a specific aim, developing statistical methodology, and analyzing preliminary data.

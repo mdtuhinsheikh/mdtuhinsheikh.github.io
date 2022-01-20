@@ -14,7 +14,9 @@ in Fitting Competing Risks Survival Data in the Presence of Partially Masked Cau
 - **Sheikh, M.T.**, Ibrahim, J.G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2021). Joint Modeling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data. *Statistical Modelling*, 21(1–2): 72–94, doi: [10.1177/1471082X20944620](https://journals.sagepub.com/doi/10.1177/1471082X20944620).
 
 ## Manuscript in Progress
+<!--
 - Menger, A., **Sheikh, M. T.**, Gelfond, J. A., Ibrahim, J. G., Chen, M. H. (2022). A Flexible Likelihood-based Model for Cure Rate within Competing Risk Time-to-event Data.  
+-->
 - Menger, A., **Sheikh, M. T.**, Gelfond, J. A., Ibrahim, J. G., Chen, M. H. (2022). Bayesian Joint Modeling of Longitudinal and Competing Risk Survival Data in the Presence of Cure Fractions.
 
 ## Applications

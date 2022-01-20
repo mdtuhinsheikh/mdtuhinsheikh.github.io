@@ -17,9 +17,10 @@ designing and performing "simulation study", etc.
 * Skilful in **R** (fluent in writing codes and using packages, e.g. "lme4", "JM", "survival", "ggplot2", "lattice", "dplyr", "keras", etc.) [[Udemy Certificate](https://www.udemy.com/certificate/UC-21QY2ZUV/)].
 * Capable of building **R Shiny apps** and **R Shiny Dashboard**. 
 * Skillful in **FORTRAN** (fluent in writing codes) using IMSL library.
+* Fluent in writing codes using **C/C++** and **Python**.
 * Fluent in writing codes and data analysis using **SAS** macro, e.g. "JMFit".
 * Fluent in writing codes and using **Matlab** toolbox, e.g. "Image Processing".
-* Experience in analysing data using **Stata**, **Minitab**, **SPSS**, and have basic knowledge of **C/C++** programming. 
+* Fluent in analysing data using **Stata**, **Minitab**, **SPSS** 
 
 ## Certification
 **Short courses/Online courses:**

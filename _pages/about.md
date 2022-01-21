@@ -19,7 +19,7 @@ My research works broadly focus on competing risks survival data analysis, longi
 ## Research Interests
 - Competing risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.
 - Bayesian inference, Bayesian computation, model assessment tools, leveraging external data, and interim analysis in clinical trials.
-- Microbiome data for premature babies and inflammation bowel disease, cancer disease, machine learning for survival data, and deep learning.
+- Microbiome data for premature babies and inflammatory bowel disease, cancer disease, machine learning for survival data, and deep learning.
 
 ## Recent Developments/News
 * Will present our paper titled "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes" at the upcoming ENAR 2022.

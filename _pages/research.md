@@ -17,7 +17,7 @@ author_profile: true
 
 ## SON-STAT Project 
 ### UConn, Storrs, CT, May 2019 - Aug 2019, Jan 2022 - Present
-- This project is a joint collaboration between between School of Nursing (SON) and Department of Statistics (STAT) at UConn. I have been working as an Research Assistant on this project under the mentors: Professor Ming-Hui Chen and Professor Xiaomei Cong. 
+- This project is a collaboration between the School of Nursing (SON) and the Department of Statistics (STAT) at UConn. I have been working as an Research Assistant on this project under the mentors: Professor Ming-Hui Chen and Professor Xiaomei Cong. 
 - I am working on the gut microbiome data from premature babies to explore their genetic relationship with the demographic and clinical variables.
 - I am working on Irritable Bowel Syndrome (IBS) data to investigate the change in microbiome characteristics (e.g. alpha-diversity, beta-diversity) for IBS and healthy control groups. 
 

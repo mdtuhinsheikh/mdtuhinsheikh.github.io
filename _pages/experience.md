@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * **Department of Statistics**, Uiversity of Connecticut (UConn), Storrs, CT
-  - Teaching and Research Assistant, August 2017 -- Present
+  - Teaching and Research Assistant, Fall 2017 -- Present
   - Advisor: [Dr. Ming-Hui Chen](http://merlot.stat.uconn.edu/~mhchen/), Board of Trustees Distinguished Professor, Statistics, UConn.
 * **Boehringer Ingelheim**, Ridgefield, CT
   - Biostatistics and Data Science Intern, Summer 2020.

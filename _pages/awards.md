@@ -12,7 +12,7 @@ author_profile: true
 * **UConn Provost's appreciation letter for excellence in teaching** in Spring 2019, Fall 2019, and Spring 2018. 
 
 ## Applied Statistics, University of Dhaka
-* [**First Prize** in **Young Statistician Award**](https://sites.google.com/site/dusdaa10/conference2015/sponsors/youngaward), Second International Conference on Statistics 2015 at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".
+* [**First Prize** in **Young Statistician Award**](https://www.isrt.ac.bd/news/isrt-alumni-and-student-win-young-statistician-award-at-statistics-conference/), Second International Conference on Statistics 2015 at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".
 * **[Dean's Award-2015](https://www.isrt.ac.bd/news/isrt-students-receive-deans-award/)**, Faculty of Science, DU, awarded for outstanding performance in B.S. (Honors) in Applied Statistics, 2013.
 * **DU Talent Pool Scholarship**, awarded for the result of B.S. (Honors) in Applied Statistics, 2013.
 * **ISRT merit scholarship** for B.S. (Honors) results, 2011, 2012, 2013, and 2014.

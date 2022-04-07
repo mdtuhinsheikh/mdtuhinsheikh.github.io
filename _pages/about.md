@@ -22,7 +22,8 @@ My research works broadly focus on competing risks survival data analysis, longi
 - Microbiome data for premature babies and inflammatory bowel disease, cancer disease, machine learning for survival data, and deep learning.
 
 ## Recent Developments/News
-* Will present our paper titled "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes" at the upcoming ENAR 2022.
+* Received the "Doctoral Dissertation Fellowship" at the University of Connecticut, Summer 2022.
+* Presented our paper titled "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes" at the ENAR 2022.
 * Recieved the prestigious "[IBM Student Research Award](https://nestat.org/ibmawards/ibm2021/)" at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
 * Recieved the prestigious "[ISBA 2022 Travel Award](https://stat.uconn.edu/2021/09/07/awards-2/)", awarded by the International Society for Bayesian Analysis. 
 * Conducted a workshop on "Introduction to R" at the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html) on Oct 9, 2021.

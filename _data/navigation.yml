@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
   - title: "Experience"
     url: /experience/
@@ -15,8 +15,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Skills"
-    url: /skills/    
+#  - title: "Skills"
+#    url: /skills/    
   
   - title: "Awards"
     url: /awards/ 

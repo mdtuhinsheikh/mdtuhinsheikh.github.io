@@ -4,9 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-A full list of publications can also be found in my 
-[Google Scholar](https://scholar.google.com/citations?user=PAaEqSkAAAAJ&hl=en) profile.
-
 ## Methodology
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2023). New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers 
 in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9671), 1-15. [[Received the IBM Student Research Award at NESS 2021]](https://nestat.org/ibmawards/ibm2021/)

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home | Tuhin Sheikh"
 title_separator          : "-"
-name                     : &name "Md. Tuhin Sheikh"
+name                     : &name "Md Tuhin Sheikh"
 description              : &description "Postdoctoral Associate, Department of Biostatistics, Yale University"
 url                      : https://mdtuhinsheikh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

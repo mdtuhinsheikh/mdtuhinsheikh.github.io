@@ -6,7 +6,7 @@ author_profile: true
 
 ## Methodology
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2023). New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers 
-in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9671), 1-15. [[Received the IBM Student Research Award at NESS 2021]](https://nestat.org/ibmawards/ibm2021/)
+in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9671), 42 (9), 1308-1322. [[Received the IBM Student Research Award at NESS 2021]](https://nestat.org/ibmawards/ibm2021/)
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2022). A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework. [*Statistics in Biosciences*](https://doi.org/10.1007/s12561-021-09330-6), 14: 318-336.
 - **Sheikh, M. T.**, Ibrahim, J. G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2021). Joint Modeling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data. [*Statistical Modelling*](https://pubmed.ncbi.nlm.nih.gov/34177376/), 21(1–2): 72–94.
 

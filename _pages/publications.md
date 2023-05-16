@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Methodology
+- Menger, A., **Sheikh, M. T.**, Chen, M. H. (2023). Bayesian Modeling of Survival Data in the Presence of Competing Risks with Cure Fractions and Masked Causes. (**submitted**) 
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2023). New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers 
 in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9671), 42 (9), 1308-1322. [[Received the IBM Student Research Award at NESS 2021]](https://nestat.org/ibmawards/ibm2021/)
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2022). A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework. [*Statistics in Biosciences*](https://doi.org/10.1007/s12561-021-09330-6), 14: 318-336.

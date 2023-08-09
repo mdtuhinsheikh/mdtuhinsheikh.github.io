@@ -11,9 +11,9 @@ author_profile: true
 * **Trainers' Award** (with a scholarship), [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/).
 * [**Outstanding Teaching Award**](https://stat.uconn.edu/student-awards/) (with a scholarship), Department of Statistics, UConn, 2019.
 * **UConn Provost's appreciation letter for excellence in teaching** in 
-  + Spring 2019, 
-  + Fall 2019, and 
-  + Spring 2018. 
+  + Spring 2018, 
+  + Fall 2018, and 
+  + Spring 2019. 
 
 ## Applied Statistics, University of Dhaka
 * [**First Prize** in **Young Statistician Award**](https://www.isrt.ac.bd/news/isrt-alumni-and-student-win-young-statistician-award-at-statistics-conference/), Second International Conference on Statistics 2015 at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".

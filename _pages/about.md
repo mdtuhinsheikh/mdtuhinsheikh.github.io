@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Associate at [Professor Hongyu Zhao's](https://ysph.yale.edu/profile/hongyu_zhao/) lab, Department of Biostatistics, Yale University. I earned my Ph.D. in [Statistics](https://stat.uconn.edu/) under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/) at the University of Connecticut in 2022. 
+I am a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html) lab, Department of Biostatistics, Yale University. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/) at the University of Connecticut in 2022. 
 <!---
-My research works broadly focus on competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling to survival data.
+My research works broadly focus on semicompeting risks and competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling to survival data.
 -->
 ## Education
 - Ph.D. in Statistics, 2017 -- 2022, University of Connecticut.
@@ -17,9 +17,9 @@ My research works broadly focus on competing risks survival data analysis, longi
 - B.S. in Applied Statistics, 2013, University of Dhaka.
 
 ## Research Interests
-- Competing risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.
+- Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.
 - Bayesian inference, Bayesian computation, model assessment tools, leveraging external data, and interim analysis in clinical trials.
-- Microbiome data for premature babies and inflammatory bowel disease, cancer disease, machine learning for survival data, and deep learning.
+- Cancer disease, type 2 diabetes, statistical genomics, microbiome data for premature babies, and inflammatory bowel disease.
 
 ## Recent Developments/News
 * Received the "Doctoral Dissertation Fellowship" at the University of Connecticut, Summer 2022.

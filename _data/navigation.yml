@@ -24,6 +24,9 @@ main:
 #  - title: "Gallery"
 #    url: /gallery/
 
+  - title: "Student Evaluation"
+    url: /evaluation/
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         

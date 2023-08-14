@@ -9,7 +9,7 @@ author_profile: true
 * **[IBM Student Research Award](https://nestat.org/ibmawards/)** at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
 * **[ISBA 2022 Travel Award](https://stat.uconn.edu/2021/09/07/awards-2/)**, awarded by the International Society for Bayesian Analsysis.
 * **Trainers' Award** (with a scholarship), [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/).
-* [**Outstanding Teaching Award**](https://statistics.uconn.edu/graduate/department-awards/) (with a scholarship), Department of Statistics, UConn, 2019.
+* [**Excellence in Teaching Award**](https://statistics.uconn.edu/graduate/department-awards/) (with a scholarship), Department of Statistics, UConn, 2019.
 * **UConn Provost's appreciation letter for excellence in teaching** in 
   + Spring 2018, 
   + Fall 2018, and 

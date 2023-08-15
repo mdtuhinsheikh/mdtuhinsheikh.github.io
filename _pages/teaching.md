@@ -25,6 +25,13 @@ Lecture materials: [https://github.com/mdtuhinsheikh/RShiny_tutorial](https://gi
 All the lecture materials are available at the 
 [https://github.com/mdtuhinsheikh/MLSurv](https://github.com/mdtuhinsheikh/MLSurv).
 
+## Workshop Instructor, UConn
+* I have conducted a workshop ([codes](https://github.com/mdtuhinsheikh/introRucsas2021), [slides](https://mdtuhinsheikh.github.io/introRucsas2021/#1), [video](https://uconn-cmr.webex.com/recordingservice/sites/uconn-cmr/recording/53790c850b50103a9f7f0050568f9b64/playback)) on "Introduction R" at the the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html) on Oct 9, 2021.
+* Conducted a workshop on "An Introduction to R Shiny App", organized by ISRT, University of Dhaka, on April 9, 2021.
+* Conducted a workshop on "Introduction to R" as part of the UConn Data Science Club on February 24, 2021.
+* I have conducted an R workshop ([codes](https://github.com/mdtuhinsheikh/introR_ucsas2021), [slides](https://mdtuhinsheikh.github.io/introR_ucsas2020/#1), [video](https://uconn-cmr.webex.com/recordingservice/sites/uconn-cmr/recording/3e88f57314344e8db379fb744ab42cb1/playback)) at the [UConn Sports Analytics Symposium 2020](https://statds.org/events/ucsas2020/workshops.html) on Oct 10, 2020.
+* Conducted a workshop on "Introduction to R" as part of the [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/). All the workshop materials are available at the [link](https://github.com/mdtuhinsheikh/introR_ucsas2019).
+
 ## Applied Statistics, University of Dhaka
 **Instructor:**
 * AST 103: Programming with C (2016 -- 2017).

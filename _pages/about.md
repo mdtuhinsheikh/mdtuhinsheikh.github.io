@@ -19,8 +19,7 @@ My research works broadly focus on semicompeting risks and competing risks survi
 ## Research Interests
 - Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.
 - Bayesian inference, Bayesian computation, model assessment tools, leveraging external data, and interim analysis in clinical trials.
-- Cancer disease, prostate cancer, type 2 diabetes, UK Biobank, statistical genomics, microbiome data for premature babies, and inflammatory bowel disease.
-
+- UK Biobank, All of Us, electronic health records, cancer disease, type 2 diabetes, statistical genomics, microbiome data for premature babies and inflammatory bowel disease.
 ## Recent Developments/News
 * Received the "Doctoral Dissertation Fellowship" at the University of Connecticut, Summer 2022.
 * Presented our paper titled "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes" at the ENAR 2022.

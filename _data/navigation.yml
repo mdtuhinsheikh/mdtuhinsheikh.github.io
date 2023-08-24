@@ -27,8 +27,8 @@ main:
   - title: "Student Evaluation"
     url: /evaluation/
 
-  - title: "Contact"
-    url: /contact/    
+#  - title: "Contact"
+#    url: /contact/    
 
 #  - title: "Portfolio"
 #    url: /portfolio/

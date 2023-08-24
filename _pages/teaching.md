@@ -12,8 +12,8 @@ author_profile: true
 * STAT 1100: Elementary Concepts of Statistics (Fall 2017 -- 2018, Spring 2021).
 
 **Instructor:** 
-* STAT 3345: Probability Models for Engineers (Fall 2021).
-* STAT 3375: Introduction to Mathematical Statistics I (Fall 2019).
+* STAT 3345: Probability Models for Engineers (Fall 2021). [[syllabus](https://github.com/mdtuhinsheikh/stat3345-f2021-uconn/blob/main/syllabus_stat3345_F2021.pdf)]
+* STAT 3375: Introduction to Mathematical Statistics I (Fall 2019). [[syllabus](https://github.com/mdtuhinsheikh/stat3375-f2019-uconn/blob/main/syllabus_STAT3375_Tuhin_F2019.pdf)]
 
 ## Guest Lecture, UConn
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial" in Spring 2020. 

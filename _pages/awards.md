@@ -6,18 +6,18 @@ author_profile: true
 
 ## Statistics, University of Connecticut
 * **Doctoral Dissertation Fellowship** (with a scholarship) at the University of Connecticut, Summer 2022.
-* **[IBM Student Research Award](https://nestat.org/ibmawards/)** at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
+* **[IBM Student Research Award](https://statistics.uconn.edu/2021/10/14/awards-at-the-34th-ness-symposium/){:target="_blank"}** at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
 * **[ISBA 2022 Travel Award](https://stat.uconn.edu/2021/09/07/awards-2/)**, awarded by the International Society for Bayesian Analsysis.
-* **Trainers' Award** (with a scholarship), [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/).
-* [**Excellence in Teaching Award**](https://statistics.uconn.edu/graduate/department-awards/) (with a scholarship), Department of Statistics, UConn, 2019.
+* **Trainers' Award** (with a scholarship), [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/){:target="_blank"}.
+* [**Excellence in Teaching Award**](https://statistics.uconn.edu/graduate/department-awards/){:target="_blank"} (with a scholarship), Department of Statistics, UConn, 2019.
 * **UConn Provost's appreciation letter for excellence in teaching** in 
   + Spring 2018, 
   + Fall 2018, and 
   + Spring 2019. 
 
 ## Applied Statistics, University of Dhaka
-* [**First Prize** in **Young Statistician Award**](https://www.isrt.ac.bd/news/isrt-alumni-and-student-win-young-statistician-award-at-statistics-conference/), Second International Conference on Statistics 2015 at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".
-* **[Dean's Award-2015](https://www.isrt.ac.bd/news/isrt-students-receive-deans-award/)**, Faculty of Science, DU, awarded for outstanding performance in B.S. (Honors) in Applied Statistics, 2013.
+* [**First Prize** in **Young Statistician Award**](https://www.isrt.ac.bd/news/isrt-alumni-and-student-win-young-statistician-award-at-statistics-conference/){:target="_blank"}, Second International Conference on Statistics 2015 at DU, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".
+* **[Dean's Award-2015](https://www.isrt.ac.bd/news/isrt-students-receive-deans-award/){:target="_blank"}**, Faculty of Science, DU, awarded for outstanding performance in B.S. (Honors) in Applied Statistics, 2013.
 * **Certificate of Appreciation** for contribution as a **Teaching Fellow** in MPH 521: Biostatistics I, James P Grant School of Public Health, April 2015.
 *	**Certificate of Appreciation** for contribution as a **Teaching Fellow** in MPH 521: Biostatistics II, James P Grant School of Public Health, May 2015.
 * **DU Talent Pool Scholarship**, awarded for the result of B.S. (Honors) in Applied Statistics, 2013.

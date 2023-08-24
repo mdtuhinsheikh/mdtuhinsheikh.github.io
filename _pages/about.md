@@ -28,5 +28,5 @@ My research works broadly focus on semicompeting risks and competing risks survi
 * Recieved the prestigious "[ISBA 2022 Travel Award](https://stat.uconn.edu/2021/09/07/awards-2/)", awarded by the International Society for Bayesian Analysis. 
 * Conducted a workshop on "Introduction to R" at the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html) on Oct 9, 2021.
 * Our recent research works focus on the theoretical innovation of Bayesian joint model for longitudinal and competing risks survival data. 
-* I am working on the "EnergyStats" project, where we have been developing an [RShiny dashboard](http://energystats.fo.uconn.edu:9999/) with the real time energy and utility data at UConn. [Note: the link works under the UConn VPN at this moment.]
+* Worked on the "EnergyStats" project, where we developed an [RShiny dashboard](http://energystats.fo.uconn.edu:9999/) with the real-time energy and utility data at UConn. [Note: the link works under the UConn VPN at this moment.]
 

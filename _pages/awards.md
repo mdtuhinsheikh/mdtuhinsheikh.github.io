@@ -6,7 +6,7 @@ author_profile: true
 
 ## Statistics, University of Connecticut
 * **Doctoral Dissertation Fellowship** (with a scholarship) at the University of Connecticut, Summer 2022.
-* **[IBM Student Research Award](https://statistics.uconn.edu/2021/10/14/awards-at-the-34th-ness-symposium/){:target="_blank"}** at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
+* **[IBM Student Research Award](https://nestat.org/researchawards/nessresearch2021/){:target="_blank"}** at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.
 * **[ISBA 2022 Travel Award](https://stat.uconn.edu/2021/09/07/awards-2/){:target="_blank"}**, awarded by the International Society for Bayesian Analsysis.
 * **Trainers' Award** (with a scholarship), [UConn Sports Analytics Symposium 2019](https://statds.org/events/ucsas2019/){:target="_blank"}.
 * [**Excellence in Teaching Award**](https://statistics.uconn.edu/graduate/department-awards/){:target="_blank"} (with a scholarship), Department of Statistics, UConn, 2019.

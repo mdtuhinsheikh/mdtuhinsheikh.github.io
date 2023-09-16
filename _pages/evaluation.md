@@ -4,6 +4,11 @@ permalink: /evaluation/
 author_profile: true
 ---
 
+## Evaluatin Summary
+<img src="/images/evaluation-summary.png" alt="Student evaluation summary" width="550"/>
+
+## Student Testimonials
+
 ***Fall 2021* - STAT 3345: Probability Models for Engineers - Section 01**
 
 <img src="/images/fall21.jpg" alt="Awardees at UConn Picnic-2019" width="750"/>

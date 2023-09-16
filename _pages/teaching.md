@@ -17,13 +17,12 @@ author_profile: true
 
 ## Guest Lecture, UConn
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial" in Spring 2020. 
-Lecture materials: [slides](https://github.com/mdtuhinsheikh/RShiny_tutorial/blob/master/Slides/catRShiny_tuhin.pdf){:target="_blank"}, [source files](https://github.com/mdtuhinsheikh/RShiny_tutorial/tree/master){:target="_blank"}, [RShiny App examples](https://github.com/mdtuhinsheikh/RShiny_tutorial/tree/master/Example%20Apps){:target="_blank"}.
+Lecture materials: [slides](https://github.com/mdtuhinsheikh/RShiny_tutorial/blob/master/Slides/catRShiny_tuhin.pdf){:target="_blank"}, [codes](https://github.com/mdtuhinsheikh/RShiny_tutorial/tree/master){:target="_blank"}, [RShiny App examples](https://github.com/mdtuhinsheikh/RShiny_tutorial/tree/master/Example%20Apps){:target="_blank"}.
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on 
 "Logistic Regression within Deep Learning Framework using R" in Spring 2020.
 * A guest lecture in "STAT 5645: Analysis of Survival Data" course on 
 "Survival Analysis: into the era of Machine Learning" in Fall 2019. 
-All the lecture materials are available at the 
-[slides](https://mdtuhinsheikh.github.io/MLSurv/#1){:target="_blank"}, [codes](https://github.com/mdtuhinsheikh/MLSurv){:target="_blank"}.
+Lecture materials: [slides](https://mdtuhinsheikh.github.io/MLSurv/#1){:target="_blank"}, [codes](https://github.com/mdtuhinsheikh/MLSurv){:target="_blank"}.
 
 ## Workshop Instructor, UConn
 * I have conducted a workshop ([slides](https://mdtuhinsheikh.github.io/introRucsas2021/#1){:target="_blank"}, [video](https://uconn-cmr.webex.com/recordingservice/sites/uconn-cmr/recording/53790c850b50103a9f7f0050568f9b64/playback){:target="_blank"}, [codes](https://github.com/mdtuhinsheikh/introRucsas2021){:target="_blank"}) on "Introduction R" at the [UConn Sports Analytics Symposium 2021](https://statds.org/events/ucsas2021/workshops.html){:target="_blank"} on Oct 9, 2021.

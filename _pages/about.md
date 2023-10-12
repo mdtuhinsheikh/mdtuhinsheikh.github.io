@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. 
+I am a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University since September, 2022. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. 
 <!---
 My research works broadly focus on semicompeting risks and competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling to survival data.
 -->
@@ -22,6 +22,7 @@ My research works broadly focus on semicompeting risks and competing risks survi
 - UK Biobank, All of Us, electronic health records, cancer disease, type 2 diabetes, statistical genomics, microbiome data for premature babies and inflammatory bowel disease.
 
 ## Recent Developments/News
+* Joined Department of Biostatistics, Yale University as a Postdocotral Associate in September, 2022.
 * Received the "Doctoral Dissertation Fellowship" at the University of Connecticut, Summer 2022.
 * Presented our paper titled "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes" at the ENAR 2022.
 * Recieved the prestigious "[IBM Student Research Award](https://statistics.uconn.edu/2021/10/14/awards-at-the-34th-ness-symposium/){:target="_blank"}" at the New England Statistics Symposium, Sep 28 - Oct 2, 2021.

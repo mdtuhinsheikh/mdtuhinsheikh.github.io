@@ -9,12 +9,11 @@ redirect_from:
 ---
 I am a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University since September, 2022. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. 
 <!---
-My research works broadly focus on semicompeting risks and competing risks survival data analysis, longitudinal data analysis, joint modelling of longitudinal and survival data, cure rate model, Bayesian computation, and model assessment. I intend to develop statistical methodology to model prostate cancer data. I am also interested in the applications of deep neural network modelling to survival data.
--->
 ## Education
 - Ph.D. in Statistics, 2017 -- 2022, University of Connecticut.
 - M.S. in Applied Statistics, 2014, University of Dhaka.
 - B.S. in Applied Statistics, 2013, University of Dhaka.
+-->
 
 ## Research Interests
 - Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.

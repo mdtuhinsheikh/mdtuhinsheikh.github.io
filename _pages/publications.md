@@ -6,7 +6,7 @@ author_profile: true
 
 - **Sheikh, M. T.**, and Zhao, H. (2023). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. (**submitted**)
 - **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2023). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. **Manuscript**
-- Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Bayesian Modeling of Survival Data in the Presence of Competing Risks with Cure Fractions and Masked Causes. (**accepted**)
+- Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Bayesian Modeling of Survival Data in the Presence of Competing Risks with Cure Fractions and Masked Causes. [*Sankhya A*](https://link.springer.com/article/10.1007/s13171-023-00335-5){:target="_blank}
 - Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes. **In preparation**
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2023). New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers 
 in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9671){:target="_blank"}, 42 (9), 1308-1322. [[Received the IBM Student Research Award at NESS 2021]](https://statistics.uconn.edu/2021/10/14/awards-at-the-34th-ness-symposium/)

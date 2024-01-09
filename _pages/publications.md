@@ -13,7 +13,6 @@ in Fitting Competing Risks Survival Data in the Presence of Partially Masked Cau
 - Perry, M. A., **Sheikh, M. T.**, Asaro, L., Wypij, D., Weiss, S. L., Zuppa, A. F., Dahmer, M., Flori, H., and Curley, M. A. (2023). Risk factors for new physical morbidity at 6-months after discharge in survivors of pediatric acute respiratory failure. **Manuscript**
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2022). A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework. [*Statistics in Biosciences*](https://doi.org/10.1007/s12561-021-09330-6){:target="_blank"}, 14: 318-336.
 - **Sheikh, M. T.**, Ibrahim, J. G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2021). Joint Modeling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data. [*Statistical Modelling*](https://pubmed.ncbi.nlm.nih.gov/34177376/){:target="_blank"}, 21(1–2): 72–94.
-
 - Khan, J.R., Awan, N., **Sheikh, M. T.** (2019). A multilevel and spatial analysis 
 of the infant and young child feeding practices and associated factors among the 
 under-2 aged children in Bangladesh. [*Child Care in Practice*](https://doi.org/10.1080/13575279.2019.1680528){:target="_blank"}.

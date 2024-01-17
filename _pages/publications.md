@@ -4,14 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Sheikh, M. T.**, and Zhao, H. (2023). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. (**submitted**)
-- **Sheikh, M. T.**, and Zhao, H. (2024). Latent class mixed effects model with endogenous time-varying covariates for classifying longitudinal hemoglobin profiles in individuals at elevated risk of diabetes. **In preparation**
-- **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2023). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. **Manuscript**
+- **Sheikh, M. T.**, and Zhao, H. (2023). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. (*submitted*)
+- **Sheikh, M. T.**, and Zhao, H. (2024). Latent class mixed effects model with endogenous time-varying covariates for classifying longitudinal hemoglobin profiles in individuals at elevated risk of diabetes. *In preparation*
+- **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2023). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. *Manuscript*
 - Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Bayesian Modeling of Survival Data in the Presence of Competing Risks with Cure Fractions and Masked Causes. [*Sankhya A*](https://link.springer.com/article/10.1007/s13171-023-00335-5){:target="_blank}
-- Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes. **In preparation**
+- Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes. *In preparation*
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2023). New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers 
 in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9671){:target="_blank"}, 42 (9), 1308-1322. [[Received the IBM Student Research Award at NESS 2021]](https://statistics.uconn.edu/2021/10/14/awards-at-the-34th-ness-symposium/)
-- Perry, M. A., **Sheikh, M. T.**, Asaro, L., Wypij, D., Weiss, S. L., Zuppa, A. F., Dahmer, M., Flori, H., and Curley, M. A. (2023). Risk factors for new physical morbidity at 6-months after discharge in survivors of pediatric acute respiratory failure. **Manuscript**
+- Perry, M. A., **Sheikh, M. T.**, Asaro, L., Wypij, D., Weiss, S. L., Zuppa, A. F., Dahmer, M., Flori, H., and Curley, M. A. (2023). Risk factors for new physical morbidity at 6-months after discharge in survivors of pediatric acute respiratory failure. Manuscript*
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., and Ibrahim, J. G. (2022). A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework. [*Statistics in Biosciences*](https://doi.org/10.1007/s12561-021-09330-6){:target="_blank"}, 14: 318-336.
 - **Sheikh, M. T.**, Ibrahim, J. G., Gelfond, J. A., Sun, Wei and Chen, M. H. (2021). Joint Modeling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data. [*Statistical Modelling*](https://pubmed.ncbi.nlm.nih.gov/34177376/){:target="_blank"}, 21(1–2): 72–94.
 - Khan, J.R., Awan, N., **Sheikh, M. T.** (2019). A multilevel and spatial analysis 

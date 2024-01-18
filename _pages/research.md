@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Areas of expertise
-My research aims to dedicated to improving health outcomes through developing advanced statistical methods motivated by datasets such as the UK Biobank, AllofUs, and various cancer studies. 
+My research is dedicated to improving health outcomes through developing advanced statistical methods motivated by datasets such as the UK Biobank, AllofUs, and various cancer studies. 
 I am particularly interested in areas like competing and semicompeting risks survival analysis, longitudinal analysis, Bayesian inference, model assessment tools, and statistical genomics. 
 Here are a few recent highlights from my work.
 

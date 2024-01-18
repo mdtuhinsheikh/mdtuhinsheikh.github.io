@@ -23,7 +23,7 @@ we propose a joint model for longitudinal and competing risks survival data acco
 
 **Cure rate model:** In clinical studies, some subjects may never experience the disease of interest (or become cured of it), regardless of the duration of follow-up. 
 In the context of competing risks survival data with masked causes, we have developed a mixture cure rate model. 
-Our approach integrates a Bayesian joint model, incorporating a mixed-effects model for longitudinal data and a promotion time cure rate model for 
+We further developed a Bayesian joint model, incorporating a mixed-effects model for longitudinal data and a promotion time cure rate model for 
 competing risks survival data with masked causes.
 
 **Model assessment tools:** Quantifying the fit of survival data with respect to each cause becomes quite difficult in the presence of masked causes. Within the joint modeling framework, 

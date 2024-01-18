@@ -4,35 +4,47 @@ permalink: /research/
 author_profile: true
 ---
 
-## Energy-Stats Project 
-### UConn, Storrs, CT, Jan 2020 - Aug, 2022
-- This project is a joint collaboration between the Utility Operations & Energy Management and the Department of Statistics at UConn. I have been working as an Research Assistant under this project and contributing to the development of an [R Shiny Dashboard Website](\href{https://energystats.fo.uconn.edu/}{https://energystats.fo.uconn.edu/}) (accessible under the UConn domain only at this moment) under the advisory of Professor Ming-Hui Chen. 
+# Areas of expertise
+My research aims to dedicated to improving health outcomes through developing advanced statistical methods motivated by datasets such as the UK Biobank, AllofUs, and various cancer studies. 
+I am particularly interested in areas like competing and semicompeting risks survival analysis, longitudinal analysis, Bayesian inference, model assessment tools, and statistical genomics. 
+Here are a few recent highlights from my work.
 
-## NIH R01 Grant
-### UConn, Storrs, CT, Jan 2019 - Aug, 2022
-- Joint modeling of longitudinal and competing risks survival data in the presence of missing causes.
-- Bayesian model assessment to quantify the contribution of longitudinal data to the fit of competing risks survival data.
-- Leveraging external co-longitudinal and co-survival data.
-- Joint Modeling of Longitudinal and Competing Risk Survival Data in the Presence of Cure Fractions within Machine Learning Framework.
+**Semicompeting risks model:** In the context of complex diseases, individuals may encounter multiple nonterminal events alongside a single terminal event. 
+The occurrence of a terminal event can censor the nonterminal events, but the reverse is not the case. 
+Motivated by type 2 diabetes, we propose a semicompeting risks model within the Bayesian framework accounting for two nonterminal events and one terminal event.
 
-## SON-STAT Project 
-### UConn, Storrs, CT, May 2019 - Aug 2019, Jan 2022 - Aug, 2022
-- This project is a collaboration between the School of Nursing (SON) and the Department of Statistics (STAT) at UConn. I have been working as an Research Assistant on this project under the mentors: Professor Ming-Hui Chen and Professor Xiaomei Cong. 
-- I am working on the gut microbiome data from premature babies to explore their genetic relationship with the demographic and clinical variables.
-- I am working on Irritable Bowel Syndrome (IBS) data to investigate the change in microbiome characteristics (e.g. alpha-diversity, beta-diversity) for IBS and healthy control groups. 
+**Longitudinal data analysis:** Longitudinal collection of biomarkers play a significant role in disease diagnostics, screening and monitoring, and also classifying subjects with similar behaviors. 
+In the presence of time-varying covariates, statistical inference on the effects of these covariates becomes challenging depending their nature (e.g., endogeneity). We are developing  
+statistical methodology to classify subjects showing similar behavior accounting for complex nature of multiple time-varying covariates.
 
-## K99/R00 Grant
-### UConn, Storrs, CT, Jan 2022 - Aug, 2022
-- As an RA, I am working with Dr. Mallory Perry, University of Pennsylvenia, on her K99/R00 project. Our focus is to determiine the risk of physical dysfunction in 
-	critically ill children who survive severe sepsis.
+**Joint model with competing risks:** In medical studies, longitudinal biomarker and competing risks survival data are collected simultaneously along with other covariates. 
+It is common to encounter competering risks survival data with partially masked causes. To examine the association between longitudinal biomarker and competing risks survival data, 
+we propose a joint model for longitudinal and competing risks survival data accounting for the masked causes within the Bayesian framework.
 
-## Internship Project 
-### Boehringer Ingelheim (BI), Ridgefield, CT, May - Aug, 2020
-- I worked on a project to develop a new decision making criterion using the Bayesian predictive probability of failure and developed self-written code. 
-- Project title: "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure", mentor: Dr. Miaomiao Ge.
+**Cure rate model:** In clinical studies, some subjects may never experience the disease of interest (or become cured of it), regardless of the duration of follow-up. 
+In the context of competing risks survival data with masked causes, we have developed a mixture cure rate model. 
+Our approach integrates a Bayesian joint model, incorporating a mixed-effects model for longitudinal data and a promotion time cure rate model for 
+competing risks survival data with masked causes.
 
-## NIH R01 Grant Proposal Assisted
-### *SON-STAT, UConn, Storrs, CT*, Jan - May, 2020
-- Assisted on an R01 grant proposal by working on the sample size calculation and data visualization for a gut microbiome data under the mentors: Prof. Ming-Hui Chen and Prof. Wanli Xu.
-### *UNCH-UConn, Storrs, CT*, Jan - May, Sep - Oct, 2020
-- I assisted on preparing an R01 grant proposal by contributing on formulating a specific aim, developing statistical methodology, and analyzing preliminary data.
+**Model assessment tools:** Quantifying the fit of survival data with respect to each cause becomes quite difficult in the presence of masked causes. Within the joint modeling framework, 
+we propose cause-specific concordance (C)-index and cause-specific deviance information criterion (DIC). These model assessment tools can be useful to quantify predictive performance 
+as well as fit of survival data for each observed cause. Our model assessment tools have also extended within the cure rate models.
+
+**Interim analysis in clinical trials:** Early decision making at phase Ib/II is crucial in the drug development
+process. Futility boundary is often desirable to make an appropriate decision at each interim look. During my internship, 
+I have developed an optimized interim futility decision making algorithm for early phase clinical trials with binary endpoint using Bayesian 
+predictive probability of failure.
+
+# Other research experience
+- **Energy-Stats Project**, UConn, Storrs, CT (Jan, 2020 -- Aug, 2022)
+  + As a research assistant (RA), I contributed to the development of an  [R Shiny Dashboard](https://energystats.fo.uconn.edu/) to monitor the UConn campus-wide
+    utility usage (electricity, natural gas) and improve anomaly detection. 
+- **SON-STAT Project**, UConn, Storrs, CT (May -- Aug, 2019; Jan, 2022 -- Aug, 2022)
+  + I worked on the gut microbiome data from premature babies to explore their genetic relationship with the demographic and clinical variables.
+    I also worked on Irritable Bowel Disease (IBD) data to investigate the change in microbiome characteristics for IBD and healthy groups. Mentors: Professors Ming-Hui Chen and Xiaomei Cong.
+- **K99/R00 Project**, UConn, Storrs, CT (Jan, 2022 -- Aug, 2022)
+  + As an RA, I worked with Dr.\ Mallory Perry, University of Pennsylvania, to determine the risk of physical dysfunction in critically ill children who survive severe sepsis.
+- **NIH R01 Grant Proposal Assisted**, UConn, Storrs, CT (Jan -- May, 2020)
+  + Assisted on an R01 grant proposal by working on the sample size calculation and data visualization for a gut microbiome data under the mentors: Professor Ming-Hui Chen and Professor Wanli Xu.
+- **UNCCH-UConn, Storrs, CT** (Jan -- May, Sep -- Oct, 2020)
+  + I assisted on preparing an R01 grant proposal by contributing on formulating a specific aim, developing statistical methodology, and analyzing preliminary data.

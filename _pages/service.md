@@ -14,6 +14,7 @@ author_profile: true
 
 ## Reviewer
 * Lifetime Data Analysis
+* Nature Communications
 * Journal of Applied Statistics
 * Journal of Statistical Research
 * Archives of Public Health

@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Talks/Presentation
+* "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression", [ENAR 2024](https://www.enar.org/meetings/spring2024/), Mar 10 - 13, 2024.
+
 * "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [ENAR 2022](https://enar.org/meetings/spring2022/){:target="_blank"}, Mar 27 - 30, 2022.
 
 * "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", [Speed Poster Presentation 1, EAC-ISBA 2021 Meeting](https://events.stat.uconn.edu/EACISBA2021/){:target="_blank"}, November 16 - 18, 2021.

@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Talks/Presentation
-* "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression", [ENAR 2024](https://www.enar.org/meetings/spring2024/), Mar 10 - 13, 2024.
+* "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression", [ENAR 2024](https://www.enar.org/meetings/spring2024/){:target="_blank"}, Mar 10 - 13, 2024.
 
 * "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [ENAR 2022](https://enar.org/meetings/spring2022/){:target="_blank"}, Mar 27 - 30, 2022.
 

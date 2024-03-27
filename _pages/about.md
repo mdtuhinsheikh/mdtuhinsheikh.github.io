@@ -9,8 +9,6 @@ redirect_from:
 ---
 I am a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University since September, 2022. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. Previously, I received B.S. and M.S. in Applied Statistics at the University of Dhaka, Bangladesh in 2014 and 2015, respectively.
 
-[Please find my CV at here](https://www.dropbox.com/scl/fi/sy1u8rr8v88s0ng293otr/CV_Sheikh_MdTuhin-jan2024.pdf?rlkey=zlmn2gvg8p777acfznzz37e62&dl=0)
-
 ## Research Interests
 - Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.
 - Bayesian inference, Bayesian computation, model assessment tools, leveraging external data, and interim analysis in clinical trials.

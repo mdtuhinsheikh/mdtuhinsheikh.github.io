@@ -10,10 +10,7 @@ author_profile: true
 * **ISBA 2022 Travel Award**, awarded by the International Society for Bayesian Analsysis.
 * **Trainers' Award** (with a scholarship), UConn Sports Analytics Symposium 2019.
 * **Excellence in Teaching Award** (with a scholarship), Department of Statistics, UConn, 2019.
-* **UConn Provost's appreciation letter for excellence in teaching** in 
-  + Spring 2018, 
-  + Fall 2018, and 
-  + Spring 2019. 
+* **UConn Provost's appreciation letter for excellence in teaching** in Spring 2018, Fall 2018, and Spring 2019. 
 
 ## Applied Statistics, University of Dhaka
 * **First Prize** in **Young Statistician Award**, Second International Conference on Statistics 2015, for the paper titled "Effect of Longitudinal Blood Glucose Level on Diabetes Complications: A Joint Modelling Approach".

@@ -5,27 +5,27 @@ author_profile: true
 ---
 
 ## Talks/Presentation
-* "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression", [ENAR 2024](https://www.enar.org/meetings/spring2024/){:target="_blank"}, Mar 10 - 13, 2024.
+* "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression", ENAR 2024, Mar 10 - 13, 2024.
 
-* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [ENAR 2022](https://enar.org/meetings/spring2022/){:target="_blank"}, Mar 27 - 30, 2022.
+* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", ENAR 2022, Mar 27 - 30, 2022.
 
-* "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", [Speed Poster Presentation 1, EAC-ISBA 2021 Meeting](https://events.stat.uconn.edu/EACISBA2021/){:target="_blank"}, November 16 - 18, 2021.
+* "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", EAC-ISBA 2021 Meeting, November 16 - 18, 2021.
 
-* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", [Munich Re / HSB Student Poster Award: Speed Poster Presentation 1, NESS 2021](https://symposium.nestat.org/sessions-schedule.html){:target="_blank"}, Sep 30 -- Oct 2, 2021.
+* "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes", NESS 2021, Sep 30 -- Oct 2, 2021.
 
-* "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", [Session C14, ISBA 2021 Virtual Meeting](https://events.stat.uconn.edu/ISBA2021/programs.html){:target="_blank"}{:target="_blank"}, June 23 -- July 2, 2021.
+* "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", ISBA 2021 Virtual Meeting, June 23 -- July 2, 2021.
 
 * "A Power Prior Approach for Leveraging External Longitudinal and Competing Risks Survival Data within the Joint Modeling Framework", Pharma-Stat Virtual Meeting, March 27, 2021, organized by the Department of Statistics, UConn.
 
-* "Joint Modelling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data", [Session 96c, ENAR Virtual Spring Meeting 2021](https://www.enarspring.org/agenda){:target="_blank"}, March 14--17, 2021.
+* "Joint Modelling of Longitudinal and Survival Data in the Presence of Competing Risks with Applications to Prostate Cancer Data", ENAR Virtual Spring Meeting 2021, March 14--17, 2021.
 
-* "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure", Biostatistics and Data Science Intern Presentation, [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/){:target="_blank"}, August 10, 2020.
+* "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure", Biostatistics and Data Science Intern Presentation, Boehringer Ingelheim, August 10, 2020.
 
-* "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", [Symposium on Data Science & Statistics](https://ww2.amstat.org/meetings/SDSS/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304595){:target="_blank"}", May 16--19, 2018, in Reston, Virginia. 
+* "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", Symposium on Data Science & Statistics, May 16--19, 2018 
 
-* "Standard Error Estimation of Joint Model for Longitudinal and Survival Outcomes", [International Conference on Statistics](https://sites.google.com/site/dusdaa10/conference2015){:target="_blank"}, 27--29 December, 2014, organized by DUSDAA.
+* "Standard Error Estimation of Joint Model for Longitudinal and Survival Outcomes", International Conference on Statistics, 27--29 December, 2014.
 
-* "Joint Modeling of Longitudinal and Survival Outcome with Applications to Diabetes Data", [Contributed Session 5 (P97), International Conference on Applied Statistics](https://docs.google.com/a/isrt.ac.bd/viewer?a=v&pid=sites&srcid=aXNydC5hYy5iZHxpY2FzMjAxNHxneDozYmZjNmFlMjBmMjljYzIx){:target="_blank"}, 27--29 December, 2014, organized by ISRT, DU.
+* "Joint Modeling of Longitudinal and Survival Outcome with Applications to Diabetes Data", International Conference on Applied Statistics, 27--29 December, 2014.
 
 
 

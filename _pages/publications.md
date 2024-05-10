@@ -4,9 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- - **Sheikh, M. T.**, and Zhao, H. (2024). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. (*submitted*) 
-- **Sheikh, M. T.**, and Zhao, H. (2024). Latent class mixed effects model with endogenous time-varying covariates for classifying longitudinal hemoglobin profiles in individuals at elevated risk of diabetes. *In preparation*
-- **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2023). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. *Manuscript* -->
+- **Sheikh, M. T.**, and Zhao, H. (2024). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. (*under major revision*) 
+<!-- - **Sheikh, M. T.**, and Zhao, H. (2024). Latent class mixed effects model with endogenous time-varying covariates for classifying longitudinal hemoglobin profiles in individuals at elevated risk of diabetes. *In preparation* -->
+- **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2024). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. *Manuscript* 
 - Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Bayesian Modeling of Survival Data in the Presence of Competing Risks with Cure Fractions and Masked Causes. [*Sankhya A*](https://link.springer.com/article/10.1007/s13171-023-00335-5){:target="_blank}
 <!-- - Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2023). Joint Modeling of Longitudinal and Competing Risks Survival Data with Cure Fractions and Masked Causes. *In preparation* -->
 - **Sheikh, M. T.**, Chen, M. H., Gelfond, J. A., Sun, Wei, and Ibrahim, J. G. (2023). New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers 

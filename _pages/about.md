@@ -17,7 +17,7 @@ Please find my CV at [here](https://www.dropbox.com/scl/fi/sy1u8rr8v88s0ng293otr
 - UK Biobank, All of Us, electronic health records, cancer disease, type 2 diabetes, statistical genomics, microbiome data for premature babies and inflammatory bowel disease.
 
 ## Recent Developments/News
-* Presented our recent research titled "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression", a joint with my Postdoc advisor Professor Hongyu Zhao at ENAR 2024 (March 10 - 13, 2024).
+* Presented recent research titled "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression," a joint work with my Postdoc advisor Professor Hongyu Zhao at ENAR 2024 (March 10 - 13, 2024).
 * Joined Department of Biostatistics, Yale University as a Postdocotral Associate in September, 2022.
 * Received the "Doctoral Dissertation Fellowship" at the University of Connecticut, Summer 2022.
 * Presented our paper titled "New Bayesian C-indices for Assessing Importance of Longitudinal Biomarkers in Fitting Competing Risks Survival Data in the Presence of Partially Masked Causes" at the ENAR 2022.

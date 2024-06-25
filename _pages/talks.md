@@ -23,7 +23,7 @@ author_profile: true
 
 * "Optimized Interim Futility Decision Making for Early Phase Clinical Trials with Binary Endpoint using Bayesian Predictive Probability of Failure," Biostatistics and Data Science Intern Presentation, Boehringer Ingelheim, August 10, 2020.
 
-* "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", Symposium on Data Science & Statistics, May 16--19, 2018 
+* "A comprehensive analysis of trends and determinants of HIV/AIDS knowledge among the Bangladeshi women based on Bangladesh Demographic and Health Surveys, 2007--2014", Symposium on Data Science & Statistics, May 16--19, 2018.
 
 * "Joint Modeling of Longitudinal and Survival Outcome with Applications to Diabetes Data," International Conference on Applied Statistics, December 27 -- 29, 2014.
 

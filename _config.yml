@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home | Tuhin Sheikh"
 title_separator          : "-"
 name                     : &name "Md Tuhin Sheikh"
-description              : &description "Postdoctoral Associate, Department of Biostatistics, Yale University"
+description              : &description "Assistant Professor, Biostatistics, Arizona State University"
 url                      : https://mdtuhinsheikh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mdtuhinsheikh/mdtuhinsheikh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Md Tuhin Sheikh"
   avatar           : "sheikh_mdtuhin.jpg"
-  bio              : "Postdoctoral Associate, Department of Biostatistics, Yale University"
-  location         : "Connecticut, USA"
-  employer         : "Yale University"
+  bio              : "Assistant Professor, Biostatistics, Arizona State University"
+  location         : "Phoenix, AZ, USA"
+  employer         : "Arizona State University"
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=id9FpfkAAAAJ&hl=en"
-  email            : "md.sheikh@yale.edu"
+  email            : "MdTuhin.Sheikh@asu.edu"
   researchgate     :
   uri              :
   bitbucket        :

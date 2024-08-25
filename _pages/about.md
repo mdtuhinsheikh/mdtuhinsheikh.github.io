@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor (Tenure-Track) in Biostatistics at the College of Health Solutions, Arizona State University (ASU). Prior to joining ASU, I worked as a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University from 2022-2024. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. Previously, I received B.S. and M.S. in Applied Statistics at the University of Dhaka, Bangladesh in 2013 and 2014, respectively.
+I am an Assistant Professor (Tenure-Track) in Biostatistics at the College of Health Solutions, [Arizona State University (ASU)](https://search.asu.edu/profile/5201535){:target="_blank"}. Prior to joining ASU, I worked as a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University from 2022-2024. I earned my Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. Previously, I received B.S. and M.S. in Applied Statistics at the University of Dhaka, Bangladesh in 2013 and 2014, respectively.
 
 Please find my CV at [here](https://www.dropbox.com/scl/fi/sy1u8rr8v88s0ng293otr/CV_Sheikh_MdTuhin.pdf?rlkey=zlmn2gvg8p777acfznzz37e62&st=xu7fvckw&dl=0){:target="_blank"}.
 

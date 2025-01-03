@@ -4,6 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Biostatistics, Arizona State University
+* BST 606: Applied Clinical Trial Design and Analysis
+
 ## Department of Statistics, UConn
 **Teaching Assistant:**
 * STAT 3375: Introduction to Mathematical Statistics I (Fall 2020 -- Spring 2021).

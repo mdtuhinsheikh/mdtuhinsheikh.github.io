@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Biostatistics, Arizona State University
-* BST 606: Applied Clinical Trial Design and Analysis (Spring 2025)
+* BST 606: Applied Clinical Trial Design and Analysis (Spring 2025).
+* BST 601 Biostatistical Theory and Inference (Fall 2025).
  
 ## Department of Statistics, UConn
 * STAT 3375: Introduction to Mathematical Statistics I (Fall 2019, Fall 2020 -- Spring 2021).

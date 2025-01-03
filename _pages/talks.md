@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Talks/Presentation
+* "Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes," ENAR 2025, Mar 23 -- 26, 2025.
+
 * "Methods for exploring prostate cancer risk due to multiple causes and longitudinal biomarkers in the presence of unknown causes", CHS Innovation Talk, Nov 14, 2024.
 
 * "Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes," NESS 2024, May 20 -- 24, 2024.

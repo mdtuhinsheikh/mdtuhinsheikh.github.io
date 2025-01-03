@@ -5,18 +5,14 @@ author_profile: true
 ---
 
 ## Biostatistics, Arizona State University
-* BST 606: Applied Clinical Trial Design and Analysis
-
+* BST 606: Applied Clinical Trial Design and Analysis (Spring 2025)
+ 
 ## Department of Statistics, UConn
-**Teaching Assistant:**
-* STAT 3375: Introduction to Mathematical Statistics I (Fall 2020 -- Spring 2021).
+* STAT 3375: Introduction to Mathematical Statistics I (Fall 2019, Fall 2020 -- Spring 2021).
+* STAT 3345: Probability Models for Engineers (Fall 2021). 
 * STAT 3115: Analysis of Experiments (Fall 2017, Spring 2018).
 * STAT 3025: Statistical Methods (Fall 2017).
 * STAT 1100: Elementary Concepts of Statistics (Fall 2017 -- 2018, Spring 2021).
-
-**Instructor:** 
-* STAT 3345: Probability Models for Engineers (Fall 2021). 
-* STAT 3375: Introduction to Mathematical Statistics I (Fall 2019). 
 
 ## Guest Lecture, UConn
 * A guest lecture in "STAT 5615: Categorical Data Analysis" course on "RShiny Tutorial" in Spring 2020. 
@@ -30,7 +26,6 @@ author_profile: true
 * Conducted a workshop on "Introduction to R" as part of the UConn Data Science Club in 2021.
 
 ## Applied Statistics, University of Dhaka
-**Instructor:**
 * AST 103: Programming with C (2016 -- 2017).
 * AST 232: Statistical Computing V [design and analysis of experiment] (2016, 2017).
 * AST 332: Statistical Computing VIII [population studies and sampling technique] (2016).

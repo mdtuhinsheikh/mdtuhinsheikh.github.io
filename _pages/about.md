@@ -11,7 +11,7 @@ Dr. Sheikh is an Assistant Professor (Tenure-Track) in Biostatistics at the Coll
 
 Please find my CV at [here](https://www.dropbox.com/scl/fi/sy1u8rr8v88s0ng293otr/CV_Sheikh_MdTuhin.pdf?rlkey=zlmn2gvg8p777acfznzz37e62&st=xu7fvckw&dl=0){:target="_blank"}.
 
-<strong style="color:black;">Dr. Sheikh is currently recruiting for Ph.D. students with Graduate Research Assistantships starting in Fall 2025.</strong>
+<!-- <strong style="color:black;">Dr. Sheikh is currently recruiting for Ph.D. students with Graduate Research Assistantships starting in Fall 2025.</strong> -->
 
 ## Research Interests
 - Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.

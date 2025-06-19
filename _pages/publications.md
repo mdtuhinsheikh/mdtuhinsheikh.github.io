@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Sheikh, M. T.**, and Zhao, H. (2025). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. *Biometrics*. To appear 
+- **Sheikh, M. T.**, and Zhao, H. (2025). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. [*Biometrics*](https://doi.org/10.1093/biomtc/ujaf003), 18(2). 
 <!-- - **Sheikh, M. T.**, and Zhao, H. (2024). Latent class mixed effects model with endogenous time-varying covariates for classifying longitudinal hemoglobin profiles in individuals at elevated risk of diabetes. *In preparation* -->
 <!-- - **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2024). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. *Manuscript* -->
 - Menger, A., **Sheikh, M. T.**, and Chen, M. H. (2024). Bayesian Modeling of Survival Data in the Presence of Competing Risks with Cure Fractions and Masked Causes. [*Sankhya A*](https://link.springer.com/article/10.1007/s13171-023-00335-5){:target="_blank}

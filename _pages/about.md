@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Sheikh is an Assistant Professor (Tenure-Track) of Biostatistics at the College of Health Solutions, [Arizona State University (ASU)](https://search.asu.edu/profile/5201535){:target="_blank"}. Prior to joining ASU, Dr. Sheikh worked as a Postdoctoral Associate at [Professor Hongyu Zhao's](https://zhaocenter.org/index.html){:target="_blank"} lab, Department of Biostatistics, Yale University from 2022-2024. He earned his Ph.D. in Statistics under the advisory of [Professor Ming-Hui Chen](http://merlot.stat.uconn.edu/~mic02006/){:target="_blank"} at the University of Connecticut in 2022. Previously, he received B.S. and M.S. in Applied Statistics at the University of Dhaka, Bangladesh in 2013 and 2014, respectively. Dr. Sheikh was a former Faculty in Applied Statistics at the University of Dhaka, Bangladesh, from 2015 to 2017.
+Dr. Sheikh is an Assistant Professor (Tenure-Track) of Biostatistics at the College of Health Solutions, [Arizona State University (ASU)](https://search.asu.edu/profile/5201535){:target="_blank"}. Prior to joining ASU, Dr. Sheikh worked as a Postdoctoral Associate at Professor Hongyu Zhao's lab, Department of Biostatistics, Yale University from 2022-2024. He earned his Ph.D. in Statistics under the advisory of Professor Ming-Hui Chen at the University of Connecticut in 2022. Previously, he received B.S. and M.S. in Applied Statistics at the University of Dhaka, Bangladesh in 2013 and 2014, respectively. Dr. Sheikh was a former Faculty in Applied Statistics at the University of Dhaka, Bangladesh, from 2015 to 2017.
 
 Please find my CV at [here](https://www.dropbox.com/scl/fi/sy1u8rr8v88s0ng293otr/CV_Sheikh_MdTuhin.pdf?rlkey=zlmn2gvg8p777acfznzz37e62&st=xu7fvckw&dl=0){:target="_blank"}.
 
 <!-- <strong style="color:black;">Dr. Sheikh is currently recruiting for Ph.D. students with Graduate Research Assistantships starting in Fall 2025.</strong> -->
 
 ## Research Interests
-- Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, and cure rate model.
+- Competing risks and semicompeting risks survival data analysis, longitudinal data analysis, joint modeling of longitudinal and survival data, cure rate model, and high-dimensional data.
 - Bayesian inference, Bayesian computation, model assessment tools, leveraging external data, and interim analysis in clinical trials.
 - UK Biobank, All of Us, electronic health records, cancer disease, type 2 diabetes, statistical genomics, microbiome data for premature babies and inflammatory bowel disease.
 

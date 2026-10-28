@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 ## Talks/Presentation
+* "Bayesian Joint Model for Longitudinal Biomarker and Competing Risks with Cure Fraction, Accounting for Masked Causes," Joint Statistical Meetings (JSM) 2026, August 1--7, 2026.
+
+* "A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression," International Biometric Conference (IBC) 2026, July 10--17, 2026.
+  
+* "Challenges and Practical Solutions to Longitudinal Data Analysis in Biostatistics", CHS Biostatistics Seminar Talk, December 02, 2025.
+
+* "Bayesian joint model for longitudinal biomarker and competing risks with cure fraction, accounting for masked causes", EcoSta 2025, 21--23 August, 2025.
+
 * "Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes," ENAR 2025, Mar 23 -- 26, 2025.
 
 * "Methods for exploring prostate cancer risk due to multiple causes and longitudinal biomarkers in the presence of unknown causes", CHS Innovation Talk, Nov 14, 2024.

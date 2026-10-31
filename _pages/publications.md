@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- **Sheikh, M.T.** (2026). Scale-Transformed Power Priors for External Data Integration in Longitudinal Studies. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/journal/10970258?gad_campaignid=22807332626&gad_source=1&gbraid=0AAAAADoE1anfRjc40wpcMX-2Nnt7SdCBT&gclid=CjwKCAjwuobXBhBXEiwAYUaIlfVPp0fn74lphCFNml88v4yWDLCw-QjqbSDyA1RKfxnLVrEDpUDUzBoCXWUQAvD_BwE&utm_campaign=R3MR425&utm_content=MathStat&utm_medium=cpc&utm_source=google&logout=true) (In press)
+- **Sheikh, M.T.** (2026). Scale-Transformed Power Priors for External Data Integration in Longitudinal Studies. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.70808)
 - **Sheikh, M. T.**, and Zhao, H. (2025). A Semicompeting Risks Model with an Application to UK Biobank Data to Identify Risk Factors for Diabetes Onset and Progression. [*Biometrics*](https://doi.org/10.1093/biomtc/ujaf003), 81(2). 
 <!-- - **Sheikh, M. T.**, and Zhao, H. (2024). Latent class mixed effects model with endogenous time-varying covariates for classifying longitudinal hemoglobin profiles in individuals at elevated risk of diabetes. *In preparation* -->
 <!-- - **Sheikh, M. T.**, Gelfond, J. A., and Chen, M. H. (2024). Bayesian Joint Model for Longitudinal Biomarker and Competing Risks of Prostate Cancer with Cure Fraction, Accounting for Masked Causes. *Manuscript* -->
